@@ -1,7 +1,7 @@
 import * as React from "react";
 import { graphql } from "gatsby";
 import Layout from "../components/layout";
-import { Link, Trans, useTranslation } from "gatsby-plugin-react-i18next";
+import { Trans, useTranslation } from "gatsby-plugin-react-i18next";
 import Seo from "../components/seo";
 import "../styles/mission.css";
 
@@ -50,39 +50,43 @@ const Story = () => {
         </div>
 
         <h2 className="mission-h2">
-          <Trans>Was wir wollen</Trans>
+          <Trans>Was du auf weonbikes.com findest</Trans>
         </h2>
         <div className="mission-content">
           <p>
-            <Trans>Mit</Trans>{" "}
-            <Link to="/">WeOnBikes.com - Life by bicycle</Link>{" "}
             <Trans>
-              möchten wir Radfahren als Reisemittel und Verkehrsmittel im Alltag
-              voranbringen.
+              Alle Infos, die du für einen interessanten, entspannten und
+              sicheren Fahrradurlaub in Europa brauchst.
             </Trans>
           </p>
         </div>
-
         <h2 className="mission-h2">
-          <Trans>Wie wir das erreichen wollen</Trans>
+          <Trans>Wie du das bekommst</Trans>
         </h2>
         <p className="mission-h2">
-          <Trans>Wir werden regelmäßig zu verschiedenen Themen posten:</Trans>
+          <Trans>
+            Abonniere unseren Newsletter! Wir werden regelmäßig zu verschiedenen
+            Themen posten:
+          </Trans>
         </p>
         <ul className="list-2">
           <li>
             <Trans>
-              Fahrradleben - Fahrrad als Lifestyle, Inspiration und
-              Stimmungs-Booster
+              Radrouten - Fernradwege und kürzere Fahrradtouren, GPX-Dateien zum
+              Herunterladen
             </Trans>
           </li>
           <li>
-            <Trans>Fahrradwege in verschiedenen Städten</Trans>
+            <Trans>Reiseplanung von Radreisen und Fahrradtouren</Trans>
           </li>
           <li>
-            <Trans>
-              Fahrrad-Infrastruktur und Stadtentwicklung für aktive Mobilität
-            </Trans>
+            <Trans>Packlisten</Trans>
+          </li>
+          <li>
+            <Trans>Training - ist das wichtig vor der Radreise?</Trans>
+          </li>
+          <li>
+            <Trans>Bikepacking Cuisine</Trans>
           </li>
           <li>
             <Trans>Fahrradreparatur und Werkzeug unterwegs</Trans>
@@ -99,24 +103,21 @@ const Story = () => {
             </Trans>
           </li>
           <li>
+            <Trans>Buchtipps</Trans>
+          </li>
+          <li>
             <Trans>
-              Radrouten - Fernradwege und kürzere Fahrradtouren, GPS-Routen
+              Fahrradleben - Fahrrad als Lifestyle, Inspiration und
+              Stimmungs-Booster
             </Trans>
           </li>
           <li>
-            <Trans>Reiseplanung von Radreisen und Fahrradtouren</Trans>
+            <Trans>Fahrradwege in verschiedenen Städten</Trans>
           </li>
           <li>
-            <Trans>Packlisten</Trans>
-          </li>
-          <li>
-            <Trans>Training - ist das wichtig vor der Radreise?</Trans>
-          </li>
-          <li>
-            <Trans>Bikepacking Cuisine</Trans>
-          </li>
-          <li>
-            <Trans>Buchtipps</Trans>
+            <Trans>
+              Fahrrad-Infrastruktur und Stadtentwicklung für aktive Mobilität
+            </Trans>
           </li>
         </ul>
 

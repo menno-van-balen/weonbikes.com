@@ -1,5 +1,6 @@
 import * as React from "react";
 import { useState, useEffect } from "react";
+import { StaticImage } from "gatsby-plugin-image";
 import { Link, Trans, useI18next } from "gatsby-plugin-react-i18next";
 import LanguageSwitcher from "./languageSwitcher";
 import {
@@ -9,13 +10,14 @@ import {
   burger,
   line,
   icon,
+  img,
   switcher,
 } from "./nav.module.css";
 
 const getLocalizedRoute = require("../i18n/getLocalizedRoute");
 
 // Array with menu links
-const navItems = ["Buch", "Blog", "Story", "FAQ", ""];
+const navItems = ["", "Blog", "Buch", "Story", "FAQ"];
 
 const Nav = () => {
   const { language } = useI18next();
@@ -69,7 +71,13 @@ const Nav = () => {
                 <Link
                   to={getLocalizedRoute("/" + link.toLocaleLowerCase(), lng)}
                 >
-                  <Trans>WEONBIKES.COM</Trans>
+                  <StaticImage
+                    className={img}
+                    alt="home"
+                    src="../images/icon.png"
+                    width={32}
+                    loading="eager"
+                  />
                 </Link>
               </li>
             );
@@ -96,7 +104,13 @@ const Nav = () => {
                 <Link
                   to={getLocalizedRoute("/" + link.toLocaleLowerCase(), lng)}
                 >
-                  <Trans>WEONBIKES.COM</Trans>
+                  <StaticImage
+                    className={img}
+                    alt="home"
+                    src="../images/icon.png"
+                    width={28}
+                    loading="eager"
+                  />
                 </Link>
               </li>
             );

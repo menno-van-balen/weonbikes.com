@@ -13,7 +13,7 @@ import {
   heroButton2,
 } from "./hero.module.css";
 
-import BuyButton from "../utils/buyButton";
+import SevenRoutesDownload from "../utils/sevenRoutesDownload.js";
 
 const getLocalizedRoute = require("../i18n/getLocalizedRoute");
 
@@ -26,21 +26,33 @@ const Hero = () => {
       <div className={heroContentWrapper}>
         <div className={heroContent}>
           <h1>
-            <Trans>Bikepacking von Moskau zum Nordkap</Trans>
+            <Trans>Radfernwege Nord-Süd durch Europa</Trans>
           </h1>
           <p>
             <Trans>
-              Mit Fahrrad und Zelt haben wir uns von Moskau zum Nordkap
-              aufgemacht: 4000 km Fahrradurlaub durch Russland, Karelien,
-              Finnland und Lappland nach Norwegen. Eine Reise, die ihr in
-              unserem Buch miterleben könnt.
+              Die 7 beliebtesten Fahrradrouten von Norden nach Süden durch
+              Europa. Willst du Radwandern von Kap zu Kap, durch Hauptstädte,
+              über Berg und Land, von der Nordsee bis zum Mittelmeer, Pilgern
+              auf dem Jakobsweg, nach Trondheim oder Rom? Hier findest du die
+              Routen und nützliche Tipps.
             </Trans>
           </p>
           <div className={heroButtons}>
-            <BuyButton />
-            {/* <Link className={heroButton2} to={getLocalizedRoute("/book", lng)}> */}
-            <Link className={heroButton2} to={getLocalizedRoute("/buch/", lng)}>
-              <Trans>Buch lesen</Trans>
+            <SevenRoutesDownload
+              text="GPX herunterladen"
+              color="white"
+              backgroundColor="#ee6556"
+              padding="7px"
+              width="90%"
+            />
+            <Link
+              className={heroButton2}
+              to={getLocalizedRoute(
+                "/blog/7-radwanderwege-in-europa-nord-sued/",
+                lng
+              )}
+            >
+              <Trans>Weiterlesen</Trans>
             </Link>
           </div>
           <div className={heroReview}>
@@ -49,9 +61,9 @@ const Hero = () => {
             </div>
             <p style={{ lineHeight: "25px" }}>
               <Trans>
-                Da haben Sie ja eine spannende Reise erlebt, die von Ihnen
-                eindrucksvoll beschriebenen Bilder machen Lust zum Reisen –
-                vielen Dank für diese angenehme Abwechslung!
+                Mir ist es eingefallen, während ich Fahrrad fuhr.
+                <br />
+                (Albert Einstein)
               </Trans>
             </p>
             <div className={quotes} style={{ marginTop: "-30px" }}>
@@ -62,20 +74,20 @@ const Hero = () => {
         <div className={heroImage}>
           {language === "de" && (
             <StaticImage
-              alt="book-cover"
-              src="../images/cover-de.jpg"
+              alt="7 Routen von Norden nach Süden durch Europa"
+              src="../images/hero-7-routen-DE.jpg"
               placeholder="blurred"
               loading="eager"
-              width={600}
+              width={400}
             />
           )}
           {language === "en" && (
             <StaticImage
-              alt="book-cover"
-              src="../images/cover-en.jpg"
+              alt="7 routes from north to south through Europe"
+              src="../images/hero-7-routes-EN.jpg"
               placeholder="blurred"
               loading="eager"
-              width={600}
+              width={400}
             />
           )}
         </div>
