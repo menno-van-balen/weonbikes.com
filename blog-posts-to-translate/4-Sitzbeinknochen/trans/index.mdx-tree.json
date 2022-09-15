@@ -1,0 +1,299 @@
+{
+  "nodes": [
+    {
+      "type": "yaml",
+      "attributes": [
+        {
+          "name": "date",
+          "value": "2022-03-24\nlang: en\npath: measuring-sitbone-width-3-steps\ntitle_post: 3 steps to measure your sit bone distance\ntitle_html: How to measure your sit bone width in 3 easy steps\nhero_image: ../hero-img/Sitbone-distance.jpg\nhero_image_alt: saddles with tape measure\nphotographer_name: our current saddles\nphotographer_link: https://www.instagram.com/weonbikes_on_insta/\ndescription: Here is how to measure the distance between your sit bones in 3 easy steps by yourself. The sit bone distance is an important measurement to calculate your optimum saddle width, because to be comfortable on your bike for hours in row you will need a saddle that fits your anatomy."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Choosing a saddle can be a cumbersome task if you don't know what to look out for. Your sit bone distance gives you a solid starting point to find the right saddle for your anatomy."
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "type": "div",
+      "attributes": [
+        {
+          "name": "class",
+          "value": "videoWrapper"
+        }
+      ],
+      "children": [
+        {
+          "id": 0,
+          "type": "iframe",
+          "attributes": [
+            {
+              "name": "id",
+              "value": "video"
+            },
+            {
+              "name": "width",
+              "value": "560"
+            },
+            {
+              "name": "height",
+              "value": "349"
+            },
+            {
+              "name": "src",
+              "value": "https://www.youtube.com/embed/Oy8iQvW1dUQ"
+            },
+            {
+              "name": "frameborder",
+              "value": "0"
+            },
+            {
+              "name": "allowfullscreen",
+              "value": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Where is your sit bone?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Your sit bones, are the lowest points of your pelvis. They carry your weight when you sit."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/sitbonedistance-pelvis.jpg",
+          "alt": "Sit bones on pelvis"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Why is the sit bone distance important?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "By measuring the sit bone distance, you can find the right saddle width for your own anatomy. When cycling hours in a row while touring, your bottom will thank you for having your weight resting on your sit bones. That way, soft tissue and nerve tracts don't get stressed. You'll avoid sore spots and numb legs. Watch the "
+        },
+        {
+          "type": "link",
+          "url": "https://www.youtube.com/watch?v=Oy8iQvW1dUQ",
+          "value": "video"
+        },
+        {
+          "type": "text",
+          "value": " and read the instructions below to learn how to easily measure your sit bones yourself:"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "How to measure your sit bones"
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "What you need"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "In this example we will make a cast in "
+        },
+        {
+          "type": "strong",
+          "value": "sand"
+        },
+        {
+          "type": "text",
+          "value": ". Alternatively, you can also place "
+        },
+        {
+          "type": "strong",
+          "value": "aluminum foil"
+        },
+        {
+          "type": "text",
+          "value": " on a carpet or a yoga mat or get "
+        },
+        {
+          "type": "strong",
+          "value": "corrugated cardboard"
+        },
+        {
+          "type": "text",
+          "value": " as a base for the imprint. Bike fitting professionals place special pressure mapping foil on the saddle."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "1. Cast your bottom in the sand"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Sit down in soft sand, for example on the beach or in a sandbox. Press your bottom as deep as possible into the sand. Keep your back straight. Try arching your back to push your sit bones deeper into the sand."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "2. Find the deepest spots and mark them"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Look closely at the imprint and find the deepest points. Make a hole with a stick or mark the points with your finger."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Sandabdruck.jpg",
+          "alt": "Measure your sit bone distance in 3 steps"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "3. Measure the distance"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Now you measure the distance between the marks. You can break off a stick to the right length and measure it at home with a tape measure. Or you have our tape measure with you and take a picture. We measured 11 cm (4.3 in) and 14 cm (5.5 in)."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Sitting position and saddle width calculation"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Great, you measured the distance between your sit bones. Let's say some 12 cm. The saddle width now depends on your sitting position."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "What is your sitting position on the bike?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "On a roadster bike you'd have an upright sitting position of 90°, while triathlon cyclists bend forward to a sitting angle of almost 0°. When touring, you sit slightly to moderately bent forward, between 60° and 40°. This sitting angle is ideal for long hours of cycling because most of your weight rests on your sit bones. They are made for this load. Neither the soft tissue in front of your sit bones nor the coccyx area at the back of it get stressed."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/cycling-positions-1.jpg",
+          "alt": "Sitting positions"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Saddle width calculation"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "For the saddle width at a sitting angle of 40°-60° you need to add 2-3 cm (0.8-1.2 in) to the measured sit bone distance. 12cm + 2cm = 14cm. So, over a width of 14cm, the saddle shouldn't start to round off."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "What's next?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The shape and model of the saddle are crucial factors. Nothing should pinch or chafe. Another issue is saddle hardness."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Once you have found a suitable saddle, you have to position it correctly on your bike, otherwise all measurements would have been in vain."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "As you see, your saddle choice should be well thought out. One of the next posts will therefore be about what else to consider before buying a saddle and how to position it on the bike. Last but not least, a saddle should of course be tested before you take it on tour."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "emphasis",
+          "value": "So, get on your bike, test and share the best, most durable, inexpensive or advanced saddle types with others. Talk about traveling by bicycle. Give someone a bike or a bike day! Just don't give up until everyone's riding by bicycle. Because cycling makes you happy."
+        }
+      ]
+    }
+  ]
+}

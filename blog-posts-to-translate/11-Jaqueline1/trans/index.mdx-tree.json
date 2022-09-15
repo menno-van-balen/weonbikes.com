@@ -1,0 +1,294 @@
+{
+  "nodes": [
+    {
+      "type": "yaml",
+      "attributes": [
+        {
+          "name": "date",
+          "value": "2022-05-13"
+        },
+        {
+          "name": "lang",
+          "value": "en"
+        },
+        {
+          "name": "path",
+          "value": "camino-santiago-by-bicycle-part-1"
+        },
+        {
+          "name": "title_post",
+          "value": "Solo by Bike to Santiago de Compostela Part 1"
+        },
+        {
+          "name": "title_html",
+          "value": "Camino de Santiago Solo by Bike Part 1"
+        },
+        {
+          "name": "hero_image",
+          "value": "../hero-img/Jaqueline-on-my-bike-red-HY.jpg"
+        },
+        {
+          "name": "hero_image_alt",
+          "value": "Camino de Santiago through South France"
+        },
+        {
+          "name": "photographer_name",
+          "value": ""
+        },
+        {
+          "name": "photographer_link",
+          "value": "https://www.instagram.com/weonbikes_on_insta/"
+        },
+        {
+          "name": "description",
+          "value": "Solo cycling tour on the Way of St. James from the Netherlands to Santiago de Compostela and back. 4620 km without a tent on a micro budget, but with a flower on the handlebars: 10 days in the company of Jaqueline, my travel campanula"
+        }
+      ]
+    },
+    {
+      "type": "mdxjsEsm",
+      "value": "import SevenRoutesDownload from \"../../../src/utils/sevenRoutesDownload.js\";"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Solo travel can be lonely, hoped for or dreaded. In the spring of 2008, I jumped on my bike carrying 2 panniers, a backpack and my handbag, went south and returned after 70 days still solo (or rather again). On 10 of those days, I had company: Jaqueline, Species: Travel Campanula. I attached her in a flowerpot to my handlebars to have company. We travelled southern France, over Col du Somport, through rain and hail in northern Spain, until just before Leon, where she succumbed to the changeable Iberian weather conditions. Read below my travel diary from South France day 17 to 19..."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "The Route"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "I left Eindhoven in the Netherlands on March 18th to Maastricht, from where I wanted to follow the "
+        },
+        {
+          "type": "link",
+          "url": "https://weonbikes.com/en/blog/7-cycling-routes-for-bike-tour-holidays/#2-along-old-roads-1600-km-maastricht--oloron-st-marie",
+          "value": "cycle route "
+        },
+        {
+          "type": "text",
+          "value": " to Spain. That was quite early in the year, and I often had snow. In 2008 I didn't have a smartphone with GPS. Instead, I lugged 4 bike books with routes to Santiago de Compostela around with me. I didn't know anything about the Camino de Santiago, nor was I particularly interested in pilgrimage. But there were good maps for the route, and I could cycle in a loop."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Maastricht-Santiago-Haarlem-bike-route.jpg",
+          "alt": "Way of St. James by bike"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "After 4680 km I was back in Eindhoven. On the way back from Santiago de Compostela, I first went on a northern route through the Pyrenees. That was pretty hard on a touring bike with luggage. I took the train from Leon to Irun to save some time. In France, I followed the EuroVelo 1 along the coast. The route on the map Maastricht - Santiago de Compostela - Haarlem has about 5000 km. You can download the GPX file."
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "type": "SevenRoutesDownload",
+      "attributes": [
+        {
+          "name": "link",
+          "value": "https://drive.google.com/drive/folders/1eDMvDqrpQdwcsQrsbptQuo3eoYFjxVgD?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "South France"
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Day 17 Thursday, April 3, 1455 km"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Jaqueline-MoissacSQ.jpg",
+          "alt": "Jaqueline on my bike"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/St-Jaques-Figuren.jpg",
+          "alt": "St. Jacques statues"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Day 18, Friday April 4, 1555 km"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "I had about 3 months for the tour and had 900 euros. When that ran out, I had to go back to work. No running costs since I had neither an apartment nor a car. A few boxes had been in my mother's basement since my divorce. In my old job as a flute maker, I could work on call in the Netherlands. The summer vacations were peak season."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "I hadn't brought a tent, just a basic emergency bivy bag in case I needed to sleep uncovered. On the one hand I didn't owe a tent, on the other hand I suspected that I usually wouldn't feel like setting it up anyway. I also saved weight. I didn't have any cooking gear with me either, just a tiny folding stove for an alcohol tablet to heat water. It had served me well in the cold Ardennes."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Schlafplatz-Montesquiou.jpg",
+          "alt": "Sleeping place in Montesquiou"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Day 19, Saturday April 5, 1655 km"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Erste-Sicht-auf-die-Berge.jpg",
+          "alt": "First glance of the Pyrenees"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "In 2008 I had no idea about how strong the sun in the south can be. My sunscreen was way too weak. I couldn't get rid of the sunburn until Santiago de Compostela. I didn't get blisters on my skin, but worried Spaniards stopped their car to tell me to use more sunscreen! My skin stayed that red for 3 weeks."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Selfie.jpg",
+          "alt": "Travelling solo means making selfies"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "That was one of the most beautiful stretches of this bike trip, not least because I came from the cold north to the warm south. In France on your touring bike, you can cycle comfortably on small asphalt roads through picturesque landscapes without much traffic. Ideal for cycling holidays with luggage."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The second part is about the pass and in the third part you can accompany me and Jaqueline on the Camino Frances through northern Spain. Here is a preview:"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Col du Somport"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The Col du Somport is the oldest pass over the Pyrenees and very bike friendly. But there are others..."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Spain"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "In spring 2008 there weren't many pilgrims on the Camino Frances. That's different today. An alternative is the quieter Camino del Norte, which is high on my list for our Cape-to-Cape tour next year. Along the north Spanish coast through Asturias, spectacular views and nicely green. Stay tuned! Until then..."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "emphasis",
+          "value": "Get on your bike and share the most beautiful, safest, shortest, or longest and most practical bike routes with others. Talk about holidays by bicycle. Give someone a bike or a bike day! Just don't give up until everyone's riding by bicycle. Because cycling makes you happy."
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "type": "SevenRoutesDownload",
+      "attributes": [
+        {
+          "name": "link",
+          "value": "https://drive.google.com/drive/folders/1eDMvDqrpQdwcsQrsbptQuo3eoYFjxVgD?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The maps in this article were created using "
+        },
+        {
+          "type": "link",
+          "url": "https://maphub.net/",
+          "value": "MapHub"
+        },
+        {
+          "type": "text",
+          "value": " using the map National Geographic, Esri, DeLorme, HERE, UNEP-WCMC, USGS, NASA, ESA, METI, NRCAN, GEBCO, NOAA, iPC."
+        }
+      ]
+    }
+  ]
+}

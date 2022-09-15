@@ -1,0 +1,636 @@
+{
+  "nodes": [
+    {
+      "type": "yaml",
+      "attributes": [
+        {
+          "name": "date",
+          "value": "2022-05-20"
+        },
+        {
+          "name": "lang",
+          "value": "en"
+        },
+        {
+          "name": "path",
+          "value": "camino-santiago-by-bicycle-part2"
+        },
+        {
+          "name": "title_post",
+          "value": "Solo by Bike to Santiago de Compostela Part 2: Col du Somport"
+        },
+        {
+          "name": "title_html",
+          "value": "Camino de Santiago Solo by Bike Part 2: crossing the Pyrenees"
+        },
+        {
+          "name": "hero_image",
+          "value": "../hero-img/SoloCyclingColDuSomport.jpg"
+        },
+        {
+          "name": "hero_image_alt",
+          "value": "Col-du-Somport"
+        },
+        {
+          "name": "photographer_name",
+          "value": ""
+        },
+        {
+          "name": "photographer_link",
+          "value": "https://www.instagram.com/weonbikes_on_insta/"
+        },
+        {
+          "name": "description",
+          "value": "By bike solo on the Way of St. James from the Netherlands to Santiago de Compostela and back. 4620 km without a tent with little money. Part 2: over the Pyrenees. Col du Somport and 7 other Pyrenees passes for cycling pilgrims. With routes to download."
+        }
+      ]
+    },
+    {
+      "type": "mdxjsEsm",
+      "value": "import SevenRoutesDownload from \"../../../src/utils/sevenRoutesDownload.js\";"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "In the south of France on my tour from the Netherlands to Spain, "
+        },
+        {
+          "type": "link",
+          "url": "https://weonbikes.com/en/blog/camino-santiago-by-bicycle-part-1/",
+          "value": "I met Jaqueline"
+        },
+        {
+          "type": "text",
+          "value": ", my travel campanula. After the early summer temperatures, we headed over the Pyrenees to Spain, where completely different weather awaited us. But first we had to cross the pass. Read about Pyrenees passes for bicycle pilgrims and my travel diary day 20 and 21..."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Cycling across the Pyrenees"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Pyrenaenpaesse.jpg",
+          "alt": "Pyrenees passes"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "If you want to get from France to the Iberian Peninsula, you have to cross the Pyrenees. The 430 km long mountain range stretches between the Atlantic and the Mediterranean. Luckily, the highest peaks of over 3000 meters are not in the peripheral areas by the sea, so that you can get to the other side more or less comfortably on a touring bike. 8 passes on the west side of the Pyrenees are in the running for cycling pilgrims on the Camino de Santiago. You can download the GPX file of the Pyrenees passes here."
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "type": "SevenRoutesDownload",
+      "attributes": [
+        {
+          "name": "link",
+          "value": "https://drive.google.com/drive/folders/1eDMvDqrpQdwcsQrsbptQuo3eoYFjxVgD?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Col du Pourtalet 1794 m"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Cycling south from "
+        },
+        {
+          "type": "strong",
+          "value": "Pau"
+        },
+        {
+          "type": "text",
+          "value": ", you'll get to the Col du Pourtalet or Puerto de Portalet d'Aneu. On the other side, the road goes south towards Huesca. The town of "
+        },
+        {
+          "type": "strong",
+          "value": "Sabiñánigo"
+        },
+        {
+          "type": "text",
+          "value": " is roughly east of Jaca. There you can get onto the Camino Frances to Santiago de Compostela."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The pass has a "
+        },
+        {
+          "type": "strong",
+          "value": "long ascent"
+        },
+        {
+          "type": "text",
+          "value": " through the Gave-de-Brousset river valley and is therefore not particularly difficult. East of the Spanish side of the pass is the Ordesa and Monte Perdido National Park: high mountains, deep lakes and beautiful views."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Col du Somport 1632 m"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "I took this pass from "
+        },
+        {
+          "type": "strong",
+          "value": "Oloron-St.-Marie"
+        },
+        {
+          "type": "text",
+          "value": " to "
+        },
+        {
+          "type": "strong",
+          "value": "Jaca"
+        },
+        {
+          "type": "text",
+          "value": ". On the French side, the "
+        },
+        {
+          "type": "strong",
+          "value": "climb is relaxed"
+        },
+        {
+          "type": "text",
+          "value": " on a not particularly busy road with scenic countryside. The pass is "
+        },
+        {
+          "type": "strong",
+          "value": "open all year round"
+        },
+        {
+          "type": "text",
+          "value": " as ski resorts join on the Spanish side."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The Somport is one of the oldest passes in the Pyrenees. In the 20th century, it became so important that a train connection was built from Pau to Canfranc. Since 1970, the train connection was not operational, and the imposing Canfranc train station has served as the terminus ever since. The re-opening of the original route is planned for 2025."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Col de la Pierre St. Martin 1760 m"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Coming from "
+        },
+        {
+          "type": "strong",
+          "value": "Oloron-St.-Marie"
+        },
+        {
+          "type": "text",
+          "value": ", this pass is another option. Lonely and in a grandiose landscape, however, it is pretty tough. On 21 km from Arette you overcome 1440 meters in altitude, that's about "
+        },
+        {
+          "type": "strong",
+          "value": "7% incline"
+        },
+        {
+          "type": "text",
+          "value": ". This route joins the pilgrimage route at the eastern end of the "
+        },
+        {
+          "type": "strong",
+          "value": "Yesa Reservoir"
+        },
+        {
+          "type": "text",
+          "value": " between Jaca and Pamplona."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Port de Larrau 1573 m"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Lonely and beautiful, but challenging is this somewhat remote pass. Part of the ascent from "
+        },
+        {
+          "type": "strong",
+          "value": "Larrau"
+        },
+        {
+          "type": "text",
+          "value": " on the French side overcomes 730 meters in altitude over 7.2 km, which is about a "
+        },
+        {
+          "type": "strong",
+          "value": "10% incline"
+        },
+        {
+          "type": "text",
+          "value": ". The pass lies in absolute no man's land between Oloron St Marie and St Jean Pied du Port. For lovers who already know the other passes or want to avoid any traffic."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "On the Spanish side, this route comes out at "
+        },
+        {
+          "type": "strong",
+          "value": "Lumbier west of the Yesa Reservoir"
+        },
+        {
+          "type": "text",
+          "value": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Coming from "
+        },
+        {
+          "type": "strong",
+          "value": "St-Jean-Pied-de-Port"
+        },
+        {
+          "type": "text",
+          "value": " three passes are possible: to the east the Azpegi pass, the most used Puerto de Ibañeta, and to the west the east-west running Col d'Ispeguy."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Azpegi 1051 m"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Azpegi.jpg",
+          "alt": "Azpegi-Pass"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Through pastures and along ancient stone circles, so-called chrome lechs, a narrow paved road leads over the Azpegi Pass, which is mainly used by tourists."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The 11.7 km long ascent from Estérençuby climbs 810 meters - an "
+        },
+        {
+          "type": "strong",
+          "value": "incline of around 7%."
+        },
+        {
+          "type": "text",
+          "value": " Suitable for cyclists looking for solitude and wanting to avoid the beaten track. From Orbaizeta on the Spanish side, the road follows the course of the Irati River. In the town of Ariba you can turn west to get back on EuroVelo 3, which then leads to "
+        },
+        {
+          "type": "strong",
+          "value": "Pamplona"
+        },
+        {
+          "type": "text",
+          "value": "."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Puerto de Ibañeta 1057 m"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "From St.-Jean-Pied-de-Port you can get to "
+        },
+        {
+          "type": "strong",
+          "value": "Pamplona"
+        },
+        {
+          "type": "text",
+          "value": " on the "
+        },
+        {
+          "type": "link",
+          "url": "https://weonbikes.com/en/blog/7-cycling-routes-europe-north-to-south/#6-pilgrims-route-5300-km-eurovelo-3",
+          "value": "EuroVelo 3"
+        },
+        {
+          "type": "text",
+          "value": " via this pass, also known as Col de Roncevaux or Port de Roncevalles. The pass is "
+        },
+        {
+          "type": "strong",
+          "value": "the easiest pass"
+        },
+        {
+          "type": "text",
+          "value": " in the western Pyrenees with an average gradient of 5%. At the top of the pass, the chapel marks the beginning of the Camino Frances, the Spanish part of the Way of St. James."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Col d'Ispeguy 672 m"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "From St.-Jean-Pied-de-Port you can also reach the Izpegi Pass. However, the pass doesn't really get you anywhere and is therefore suitable for cyclists who like to try a new pass or want to do an extra loop and enjoy a few steep climbs."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Coming from St.-Etienne-de-Baigorry in France, the average gradient is 6.2%. But there are some places with gradients of up to 12%."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "On the Spanish side you come to Erratzu. From there you could continue via Elionzo to Santesteban. There you will meet the EuroVelo 1 to "
+        },
+        {
+          "type": "strong",
+          "value": "Pamplona"
+        },
+        {
+          "type": "text",
+          "value": "."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Alto Jaizkibel 455 m +Alto Agina 554 m"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Hondarribia-from-Jaizkibel.jpg",
+          "alt": "Hondarribia form Jaizkibel"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The "
+        },
+        {
+          "type": "link",
+          "url": "https://weonbikes.com/en/blog/7-cycling-routes-europe-north-to-south/#1-atlantic-coast-route-11000-km-eurovelo-1",
+          "value": "EuroVelo 1"
+        },
+        {
+          "type": "text",
+          "value": " along the French coast runs from Irun on the Spanish-French border along the Bidasoa River to Pamplona."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Would you like to make a detour to "
+        },
+        {
+          "type": "strong",
+          "value": "San Sebastián"
+        },
+        {
+          "type": "text",
+          "value": " or enjoy the breathtaking views of a mountain pass on the Atlantic? Then you should take the coastal road from Hondarribia to San Sebastián via the Alto Jaizkibel and from there through the foothills of the Pyrenees to the Alto Agina. On the pass road you get back to the EuroVelo 1 in Amixelaieta."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "You can find more information about all the passes in the Pyrenees to cycle on "
+        },
+        {
+          "type": "link",
+          "url": "https://www.quaeldich.de/regionen/pyrenaeen/paesse/karte/",
+          "value": "Quäldich"
+        },
+        {
+          "type": "text",
+          "value": " and on "
+        },
+        {
+          "type": "link",
+          "url": "https://www.quaeldich.de/regionen/pyrenaeen/paesse/karte/",
+          "value": "Climbfinder"
+        },
+        {
+          "type": "text",
+          "value": ". Can't get enough of mountains? Take part in the "
+        },
+        {
+          "type": "link",
+          "url": "https://transpyrenees.cc/",
+          "value": "Trans-Pyrenees-Race"
+        },
+        {
+          "type": "text",
+          "value": ": 1500 km self-supported through the Pyrenees."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "I had now arrived in Pau on my touring bike with luggage and was about to cross the Pyrenees for the first time. Let's see how it went:"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Day 20, Sunday April 6, 1740 km"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/HerbergeBorce.jpg",
+          "alt": "In Borce"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "I didn't take a tent on this trip, but I always had my flute with me. I played in the streets when necessary and as a thank you to people who had accommodated me. Or just like that for me."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Day 21, Monday April 7, 1820 km"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Col-du-Somport.jpg",
+          "alt": "Col du Somport"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Abfahrt-Col-du-Somport.jpg",
+          "alt": "Descent from Col du Somport"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "In the third part of this Solo series, Jaqueline and I continue our cycling tour to Santiago de Compostela on the Camino Frances. From now on we meet many pilgrims and are more among people - with the associated side effects:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "In spring 2008 there weren't many pilgrims on the Camino Frances. Nowadays that's different. An alternative is the less crowded Camino del Norte, which is high on my list for our Cape-to-Cape tour next year. Along the north Spanish coast through Asturias, spectacular views and nicely green. Stay tuned! Until then..."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "emphasis",
+          "value": "Get on your bike and share the most beautiful, safest, shortest, or longest and most practical bike routes with others. Talk about holidays by bicycle. Give someone a bike or a bike day! Just don't give up until everyone's riding by bicycle. Because cycling makes you happy."
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "type": "SevenRoutesDownload",
+      "attributes": [
+        {
+          "name": "link",
+          "value": "https://drive.google.com/drive/folders/1eDMvDqrpQdwcsQrsbptQuo3eoYFjxVgD?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The maps in this article were created using "
+        },
+        {
+          "type": "link",
+          "url": "https://maphub.net/",
+          "value": "MapHub"
+        },
+        {
+          "type": "text",
+          "value": " using the map National Geographic, Esri, DeLorme, HERE, UNEP-WCMC, USGS, NASA, ESA, METI, NRCAN, GEBCO, NOAA, iPC."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "nodes": [
+    {
+      "type": "yaml",
+      "attributes": [
+        {
+          "name": "date",
+          "value": "2022-04-05"
+        },
+        {
+          "name": "date_modified",
+          "value": "2022-04-14"
+        },
+        {
+          "name": "lang",
+          "value": "en"
+        },
+        {
+          "name": "path",
+          "value": "commuting-by-bicycle-for-starters"
+        },
+        {
+          "name": "title_post",
+          "value": "Commuting by bicycle – Start easy and safe"
+        },
+        {
+          "name": "title_html",
+          "value": "How and why to start bicycle commuting"
+        },
+        {
+          "name": "hero_image",
+          "value": "../hero-img/cyclist-brooklyn-bridge-wirestock.jpeg"
+        },
+        {
+          "name": "hero_image_alt",
+          "value": "Cyclist on Brooklyn Bridge going to work"
+        },
+        {
+          "name": "photographer_name",
+          "value": ""
+        },
+        {
+          "name": "photographer_link",
+          "value": ""
+        },
+        {
+          "name": "description",
+          "value": "Learn a safe and easy start to commuting by bicycle through the city. Save time and money and improve your fitness while getting to work on your bicycle."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Do you own a bicycle, but have found it hard to start using it for commuting to work? You're not alone. With the right mindset, determination and planning, everybody can become a cycling commuter. Learn why and how to commute by bicycle in the city."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Why commuting by bicycle is great"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The average commuter spends more than six hours a week commuting by car. If you commute by bicycle, this can be leisure time for you. Commuting by bicycle is also a healthier and greener option."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Which of these advantages is most applicable in your situation? What improvement is most important for you? "
+        },
+        {
+          "type": "strong",
+          "value": "Write it down!"
+        },
+        {
+          "type": "text",
+          "value": " These notes can motivate you on difficult days."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "How am I going to save time commuting by bicycle?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Do you think commuting to work is faster by car than by bicycle? Nothing is less true "
+        },
+        {
+          "type": "strong",
+          "value": "in a city"
+        },
+        {
+          "type": "text",
+          "value": ". Just think of the time you spend searching for a parking lot. It can easily take you 20 minutes each time. How far do you cycle in 20 minutes? About 6 kilometers. Traffic jam is another trouble you'll save yourself going by bicycle. Busses can also get stuck in rush hour. And if you factor in the time it takes to get to and from the station, you'll probably be faster by bike than by public transport."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "How will commuting by bicycle save me money?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Well, this is quite obvious. Get rid of filling your tank every week and save on car maintenance costs. You'll spend less on public transport, too. Even if you go for combining cycling with public transport you'll need a ticket for only one type, e.g., the train."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "How can commuting by bicycle improve mental and physical health?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "You will be active outside! That in itself is already a mood lifter. Research shows that physical activity prevents depression and improves concentration. On your way to and from work you'll have time to switch to the next setting and focus on what comes next. That will make your "
+        },
+        {
+          "type": "strong",
+          "value": "boss and your family happy."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "And of course, you'll be more active than driving a car or sitting in an overloaded train. In the long term you'll improve your fitness level. You don't have to worry about catching the flu either."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "How does commuting make me get to know the city better?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "You might have found the shortest way through the city, but is it the best? Try different routes. Take the short one in the morning and a beautiful one after work! Take a detour to do some shopping or to see friends for an after-work chill out. Different routes might open up new opportunities for you to really connect with your city. You'll be "
+        },
+        {
+          "type": "strong",
+          "value": "closer to life and feel how you belong here"
+        },
+        {
+          "type": "text",
+          "value": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Man-bike-Lisboa.jpg",
+          "alt": "Somebody cycling through Lisbon"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "How to get started commuting by bicycle"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "So, you have a busy life and your never-ending commute is not really helping. You've heard about the benefits of cycle commuting and now you're wondering how to get started. You want to be faster than before and get to work safe and healthy on your bicycle. Here is how to do this."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Get the right bike and gear for commuting"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The right bike for commuting should be the right bike for you in your city and for your situation. Here in Lisbon chances are that you have to climb a couple of steep hills to arrive at work. So an "
+        },
+        {
+          "type": "strong",
+          "value": "eBike"
+        },
+        {
+          "type": "text",
+          "value": " is a good option to keep you motivated."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Think about how long you have for your commute and if the distance is feasible for you on a conventional bike. Be realistic. Don't arrive at work exhausted. "
+        },
+        {
+          "type": "strong",
+          "value": "Choose a bike that makes your commute cheaper in the long haul, not much slower, healthier and convenient enough to stick with it."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Do you want to combine public transport with cycling? Or do you come to the periphery from far away by car? In that case a "
+        },
+        {
+          "type": "strong",
+          "value": "folding bike"
+        },
+        {
+          "type": "text",
+          "value": " is probably the best choice for you."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Have your bike checked in a bike shop. Are the gears adjusted well, is the chain still good? Save yourself the hassle on your way to work and make sure your bicycle is always well maintained. Does the bike fit you? Make sure the saddle height is correct and the distance to the steer fits your preferred sitting position."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Most importantly, your bike needs to be safe:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Safety.jpg",
+          "alt": "Safety by bike"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "You might want to use a "
+        },
+        {
+          "type": "strong",
+          "value": "cycling outfit"
+        },
+        {
+          "type": "text",
+          "value": " and change at work. If you plan to do your shopping on the way home, "
+        },
+        {
+          "type": "strong",
+          "value": "panniers"
+        },
+        {
+          "type": "text",
+          "value": " are more practical than a backpack. Do you want to cycle even in bad weather? Get the proper gear!"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Get a bike buddy"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "You do not just hop on your bike and start commuting by bicycle in the city. That's why you are here. To start you need to figure out the "
+        },
+        {
+          "type": "strong",
+          "value": "safest, most convenient route"
+        },
+        {
+          "type": "text",
+          "value": " in advance, and learn how to avoid the hazards of a bike ride in the city."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "So, you want a great route and "
+        },
+        {
+          "type": "strong",
+          "value": "self-confidence"
+        },
+        {
+          "type": "text",
+          "value": " for your new challenge. The best way to go about these crucial points to success is to find a bike buddy. Find someone who is already riding through the city by bicycle every day. A bike buddy can advise you on what busy intersections and heavy traffic areas to avoid. Or which train stations work best for bikes."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Practice on a weekend or at any time the traffic is low. Do that at least 2 or 3 times before you start to commute by bike for real. The routine will help you to get over the initial inner resistance. Read through the advantages and improvements you noted in the beginning every time you'd rather go by car."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "And don't forget to "
+        },
+        {
+          "type": "strong",
+          "value": "enjoy the fresh air and time you save"
+        },
+        {
+          "type": "text",
+          "value": " on your first commute!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/cycle-commute-morning.jpg",
+          "alt": "Beauty of cycle commute"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Tell your employer and your friends"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "When you start to bike to work for the first time you are not used to it. In the beginning you might miscalculate the time you need. Maybe your chain slips and you haven't learned yet how to get it back within a couple of seconds?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Share your plans to commute by bicycle in advance with friends and at work. You'll be surprised about the support and the motivation you'll experience! If you're late they will understand, and it is quite likely that they'll help you. Maybe you'll even start advocating for bicycle commuting at your work!"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Organize a parking place for your bike at work in advance"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Ask before you occupy space inside a building that wasn't dedicated to bicycles until now. That way you'll avoid trouble. Not every workspace has a place for bicycles. You might need to find an unconventional solution. With a good lock and something to lock your bike on, you can also park your bicycle on the street."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "What you need for a safe cycle commute"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Bike culture is becoming more prevalent and bikes are more often seen even in cyclewise difficult cities like Lisbon. The more people commute by bike and claim urban space the better the biking infrastructure will become. And the safer the cyclists will be. However, in order to improve safety now, cyclists should consider these basic guidelines:"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Takeaway"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Commuting by bike can be a more relaxed, cheaper and healthier alternative to driving or using public transport. People are increasingly commuting even in cyclewise difficult cities like Lisbon thanks to the rise of electric bikes. The benefits of commuting by bike are plentiful: less fuel costs, less carbon dioxide emission, less time spent in traffic jams or searching for a parking lot and a healthier lifestyle. Well prepared everybody should be able to do it."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Don't wait for the perfect moment. Ask others how they do it! What do others do when they arrive sweaty at work? There is more than one solution for everything."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "emphasis",
+          "value": "So, get on your bike and share the most beautiful, safest, shortest and most practical bike routes with others. Talk about bike transport. Give someone a bike or a bike day! Just don't give up until everyone's riding bikes. Because cycling makes you happy."
+        }
+      ]
+    }
+  ]
+}

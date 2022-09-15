@@ -1,0 +1,1475 @@
+{
+  "nodes": [
+    {
+      "type": "yaml",
+      "attributes": [
+        {
+          "name": "date",
+          "value": "2022-07-10"
+        },
+        {
+          "name": "lang",
+          "value": "en"
+        },
+        {
+          "name": "path",
+          "value": "cycle-routes-finland"
+        },
+        {
+          "name": "title_post",
+          "value": "Cycle Routes in Finland: Solitude between 1000 lakes and Arctic Circle"
+        },
+        {
+          "name": "title_html",
+          "value": "Bike touring in Finland: Idyllic Forest Trails between 1000 lakes"
+        },
+        {
+          "name": "hero_image",
+          "value": "../hero-img/Pielinen-Finland.jpg"
+        },
+        {
+          "name": "hero_image_alt",
+          "value": "Shore of Lake Pielinen"
+        },
+        {
+          "name": "photographer_name",
+          "value": ""
+        },
+        {
+          "name": "photographer_link",
+          "value": "https://www.instagram.com/weonbikes_on_insta/"
+        },
+        {
+          "name": "description",
+          "value": "Cycling in Finland is uncomplicated and idyllic. With GPS you find your way on the cycle route network through forests and lakes and travel on 1000-year-old paths. Essentials, tours, an interactive map and GPS routes to download."
+        }
+      ]
+    },
+    {
+      "type": "mdxjsEsm",
+      "value": "import SevenRoutesDownload from \"../../../src/utils/sevenRoutesDownload.js\";\r\nimport Carousel from \"../../../src/components/carousel.js\";"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Solitude, endless forests, 1000 lakes. Cycling in Finland is not difficult. The country is flat throughout. Ancient trade routes run through the land: the Via Karelia and the King's Road, for example. Those looking for solitude are in the right place in the east and north of Finland. The roads are good and the sporadic traffic hardly bothers you as you roll through the idyllic forest and lake landscape. More likely, startled reindeer will run ahead of you. They know cars, however, they are afraid of cyclists. In the south and west, on the other hand, you can get to know the country and its people: the capital Helsinki, Turku in the skerries, the industrial city of Tampere or Oulo in the north."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "strong",
+          "value": "Important"
+        },
+        {
+          "type": "text",
+          "value": ": Thanks = Kiitos, Water = Vesi,"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "strong",
+          "value": "Useful"
+        },
+        {
+          "type": "text",
+          "value": ": Tent = teltta, bicycle = polkupyörä, campsite = leirintäalue"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "type": "SevenRoutesDownload",
+      "attributes": [
+        {
+          "name": "link",
+          "value": "https://drive.google.com/drive/folders/1XaqpCmPDlPu85gkDamUgb0BjJPxGldAU?usp=sharing"
+        },
+        {
+          "name": "text",
+          "value": "Download Finland GPX/KML routes"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "In the "
+        },
+        {
+          "type": "strong",
+          "value": "interactive map"
+        },
+        {
+          "type": "text",
+          "value": " below you can find the cycling routes in Finland from this article. In the side panel you can "
+        },
+        {
+          "type": "strong",
+          "value": "show and hide the routes"
+        },
+        {
+          "type": "text",
+          "value": "."
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "type": "iframe",
+      "attributes": [
+        {
+          "name": "src",
+          "value": "https://maphub.net/embed_h/WvgVt410J5EMst3J?panel=1&panel_closed=1"
+        },
+        {
+          "name": "title",
+          "value": "interactive map"
+        },
+        {
+          "name": "width",
+          "value": "100%"
+        },
+        {
+          "name": "height",
+          "value": "400"
+        },
+        {
+          "name": "frameborder",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Bike Paths and National Parks"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Finland has a cycle route network of eight to ten thousand kilometers marked on the Open Street Map. About 20% of the more than 70 national cycle routes are signposted and maintained to varying degrees. "
+        },
+        {
+          "type": "strong",
+          "value": "GPS is a must"
+        },
+        {
+          "type": "text",
+          "value": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The traffic volume is so low outside of the few urban centers that you can easily ride on the road. You should therefore not only look for bike routes, but also consider "
+        },
+        {
+          "type": "strong",
+          "value": "tourist roads for cars"
+        },
+        {
+          "type": "text",
+          "value": ": the "
+        },
+        {
+          "type": "link",
+          "url": "https://julkaisut.metsa.fi/assets/pdf/lp/Esitteet/7-finnish-national-parks-touring-route.pdf",
+          "value": "National Park Route"
+        },
+        {
+          "type": "text",
+          "value": ", the Via Karelia (see below) or the "
+        },
+        {
+          "type": "link",
+          "url": "https://en.wikivoyage.org/wiki/King%27s_Road_(Finland)",
+          "value": "King's Road"
+        },
+        {
+          "type": "text",
+          "value": ", which runs on the EV10, the Baltic Coast Cycle Route. Here you can find a "
+        },
+        {
+          "type": "link",
+          "url": "https://www.nationalparks.fi/self-guided-tours",
+          "value": "website with themed routes through Finland"
+        },
+        {
+          "type": "text",
+          "value": ". If you don't want to cycle through lonely forests for days "
+        },
+        {
+          "type": "strong",
+          "value": "without meeting a soul"
+        },
+        {
+          "type": "text",
+          "value": ", these tourist routes are recommended."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "You can even cross the country using "
+        },
+        {
+          "type": "strong",
+          "value": "forest paths"
+        },
+        {
+          "type": "text",
+          "value": " for a major part. There are also signposted "
+        },
+        {
+          "type": "strong",
+          "value": "gravel routes"
+        },
+        {
+          "type": "text",
+          "value": ", such as the Arctic Gravel Loop, see below."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Wild Camping and Cabins"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Finland is champion when it comes to wilderness infrastructure. When we crossed the border into Finland on our bike trip to the North Cape near Niirala, I wrote the following in my travel diary:"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "type": "SevenRoutesDownload",
+      "attributes": [
+        {
+          "name": "link",
+          "value": "https://drive.google.com/uc?export=download&id=1p54ki-XHxWpwgbslIFDEgqBtN9iG5rtt"
+        },
+        {
+          "name": "text",
+          "value": "Download travelogue of our bike tour in Finland"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Wilderness-Shelter-Finland.jpg",
+          "alt": "Laavu Hoilola Finland"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "figcaption",
+          "value": "Laavu (shelter) at Hoilola in Finland"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Wild Camping"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "You can wild camp in Finland. The "
+        },
+        {
+          "type": "strong",
+          "value": "right to roam"
+        },
+        {
+          "type": "text",
+          "value": " applies, so you can camp anywhere within reasonable distance of private land as long as you keep your footprint as small as possible."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "We always found a place to pitch our tent on our "
+        },
+        {
+          "type": "link",
+          "url": "https://weonbikes.com/en/book/",
+          "value": "bike tour through Finland"
+        },
+        {
+          "type": "text",
+          "value": ". Sometimes on private land, because estates can be very large. Especially when one lake connects to the next and you can't find a dry place. These spots were deserted , and it felt appropriate to pitch our tent there."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "As soon as you are out and about in Finland's extensive forests, you will almost always pass a hut. Here you can find a "
+        },
+        {
+          "type": "link",
+          "url": "https://www.tulikartta.fi/index.php?type=Kaikki&lataus=1",
+          "value": "map with cabins and campsites in Finland"
+        },
+        {
+          "type": "text",
+          "value": ". You can copy the name from the map and then search for the hut on the "
+        },
+        {
+          "type": "link",
+          "url": "https://www.nationalparks.fi/huts",
+          "value": "national park website"
+        },
+        {
+          "type": "text",
+          "value": " The huts are also marked on the Open Street Map. There are so many of them that you can follow a path to a lake and often find a hut without it being on the map. This is what happened to us on our bike tour."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Shelters, Huts and Cabins"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "There are many types of huts. All are equipped with fireplaces and wood storage, mostly also fishing rods made of sticks and compost toilets."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "strong",
+          "value": "Laavu"
+        },
+        {
+          "type": "text",
+          "value": " are lean-to shelters, small wooden huts open on one side. Some are big enough to put a free-standing inner tent inside when it rains heavily. It's pretty cold at night without the outer layer though."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "strong",
+          "value": "Ruokailukatos"
+        },
+        {
+          "type": "text",
+          "value": " are covered picnic areas. Very useful in the rain."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Picknick-hut-Finland.jpg",
+          "alt": "Ruokailukatos covered picnic area Finland"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "figcaption",
+          "value": "Ruokailukatos - covered picnic area by the Haapajoki River near Ilomantsi, Finland"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "strong",
+          "value": "Päivätupa"
+        },
+        {
+          "type": "text",
+          "value": "huts are so-called day huts, closed little houses without sleeping benches where travelers can find shelter on the way and overnight in an emergency."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "strong",
+          "value": "Autotupas"
+        },
+        {
+          "type": "text",
+          "value": " are unlocked huts that you can use for free for one or two days. They are usually furnished with sleeping benches, firewood, an oven and a table, some also have cooking facilities. Great thing. "
+        },
+        {
+          "type": "strong",
+          "value": "Kammi"
+        },
+        {
+          "type": "text",
+          "value": " are similar, but less well equipped."
+        }
+      ]
+    },
+    {
+      "type": "Carousel",
+      "attributes": [
+        {
+          "name": "imagesObject",
+          "value": [
+            [
+              {
+                "name": "name",
+                "value": "Menno-Kruuntupa-Finland.jpg"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "Stove-and-firewood-Kruuntupa-hut-finland.jpg"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "Guestbook-Kruuntupa-hut-Finland.jpg"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "Lake-Finland.jpg"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "Flechten-wie-Schnee-Finnland.jpg"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "Kruuntupa-hut-bicycles-Finland.jpg"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "Forest-Finland.jpg"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "figcaption",
+          "value": "Kruuntupa Hut near Inari, Finland"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "strong",
+          "value": "Kota"
+        },
+        {
+          "type": "text",
+          "value": " and "
+        },
+        {
+          "type": "strong",
+          "value": "Hirsikota"
+        },
+        {
+          "type": "text",
+          "value": " are more or less round huts with a fireplace in the middle. The smoke aroma makes staying in these huts only bearable in extremely bad weather."
+        }
+      ]
+    },
+    {
+      "type": "Carousel",
+      "attributes": [
+        {
+          "name": "imagesObject",
+          "value": [
+            [
+              {
+                "name": "name",
+                "value": "Menno-Koti-Inarijoki-Finland.jpg"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "Inside-Koti-Hut-Finland.jpg"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "figcaption",
+          "value": "Koti on the Tana River"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "strong",
+          "value": "Varaustupa"
+        },
+        {
+          "type": "text",
+          "value": " are cabins you have to reserve and possibly pay for. You often share the cabin with other guests. They are usually equipped with bedding. You can find "
+        },
+        {
+          "type": "link",
+          "url": "https://verkkokauppa.eraluvat.fi/en/huts/",
+          "value": "cabins to reserve and rent on the national park website"
+        },
+        {
+          "type": "text",
+          "value": ". "
+        },
+        {
+          "type": "strong",
+          "value": "Vuokrakammi"
+        },
+        {
+          "type": "text",
+          "value": " are cabins that you can rent entirely."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Mosquitoes, Rain, Travel Season"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "In the summer from the beginning of June there are heaps of mosquitoes in Finland, especially on the shores of lakes. For your bike tour, you should bring mosquito-proof clothing for the evening and a hat with a mosquito net. Repellents didn't work for us at all. A mosquito net on the tent is useful, but it is not so warm in the evening that you cannot sleep without it. A campfire also helps against mosquitoes."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Mosquito-Protection.jpg",
+          "alt": "Eating with mosquito net"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Despite mosquitoes, summer is the "
+        },
+        {
+          "type": "strong",
+          "value": "best time to travel to Finland"
+        },
+        {
+          "type": "text",
+          "value": ". From June also the north is snow-free. You can enjoy white nights until August and make long cycling days. In September, the days quickly become shorter. Many campsites in Finland are still open in September."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "strong",
+          "value": "Autumn is considered the high season"
+        },
+        {
+          "type": "text",
+          "value": " in Finland. Already in September the forests turn colorful and at night you can see the Northern Lights in Lapland. You might come across a few 4x4s in the woods or more RVs on the road. The "
+        },
+        {
+          "type": "link",
+          "url": "https://paliskunnat.fi/reindeer/reindeer-herding/husbandry-year/autumn/",
+          "value": "rounding up of reindeer herds"
+        },
+        {
+          "type": "text",
+          "value": " begins in mid-September. If you want total peace, go in June."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Finland is in Scandinavia and like mosquitoes, rain is a frequent companion. Preparation is everything. A tent in which the inner tent can be packed up individually and functional rainwear keep you in the mood to travel."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Bonfire.jpg",
+          "alt": "Campfire"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "How to Get to Finland"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "If you start your cycling holiday in the "
+        },
+        {
+          "type": "strong",
+          "value": "north"
+        },
+        {
+          "type": "text",
+          "value": " , "
+        },
+        {
+          "type": "strong",
+          "value": "Kirkenes Airport in Norway"
+        },
+        {
+          "type": "text",
+          "value": " is the best place to start. There are many affordable flights there and Finland is just around the corner. Before you dive into the forests of Lapland, you can make a detour to the North Cape."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "If you're starting in the "
+        },
+        {
+          "type": "strong",
+          "value": "south"
+        },
+        {
+          "type": "text",
+          "value": " and "
+        },
+        {
+          "type": "strong",
+          "value": "don't want to fly"
+        },
+        {
+          "type": "text",
+          "value": ", you can take your bike on the "
+        },
+        {
+          "type": "link",
+          "url": "https://www.flixbus.com/bus-routes",
+          "value": "Flixbus"
+        },
+        {
+          "type": "text",
+          "value": " to Tallinn (Estonia) and take the ferry across to "
+        },
+        {
+          "type": "strong",
+          "value": "Finland 's capital, Helsinki"
+        },
+        {
+          "type": "text",
+          "value": ". Helsinki is a great starting point for the King's Road, the Coastal Route (part of the Baltic Coast Cycle Route) or the "
+        },
+        {
+          "type": "link",
+          "url": "https://julkaisut.metsa.fi/assets/pdf/lp/Esitteet/7-finnish-national-parks-touring-route.pdf",
+          "value": "National Park Route"
+        },
+        {
+          "type": "text",
+          "value": ". An alternative is Flixbus to "
+        },
+        {
+          "type": "strong",
+          "value": "Stockholm"
+        },
+        {
+          "type": "text",
+          "value": ". From there you can take the ferry to the island of Åland and start the famous "
+        },
+        {
+          "type": "strong",
+          "value": "archipelago route"
+        },
+        {
+          "type": "text",
+          "value": " , see below."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "EuroVelo Routes Through Finland"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "3 EuroVelo routes pass through Finland."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The EV 11 and EV 13 run through the country from north to south, with route EV 13 running close to the border in the lonely east of the country. EV 10 meanders 950 km along the Baltic Sea coast and the Gulf of Bothnia through the country and coincides with the "
+        },
+        {
+          "type": "strong",
+          "value": "National Coastal Route"
+        },
+        {
+          "type": "text",
+          "value": "."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Helsinki-Nuorgam 1567 km"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "strong",
+          "value": "Crossing the whole country from north to south!"
+        },
+        {
+          "type": "text",
+          "value": " This route closes the gap between the EuroVelo routes EV10 on the Gulf of Bothnia and EV13 on the eastern border. It partially coincides with EuroVelo 11, the Eastern Europe route. We followed the northern part of this route through Lapland on our "
+        },
+        {
+          "type": "link",
+          "url": "https://weonbikes.com/en/book/",
+          "value": "cycle tour to the North Cape"
+        },
+        {
+          "type": "text",
+          "value": " for a big part. Read our travelogue about Lapland for free! You can find the Helsinki-Nuorgam route in the interactive map of this article. On the OpenCycleMap layer it is route number 4."
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "type": "SevenRoutesDownload",
+      "attributes": [
+        {
+          "name": "link",
+          "value": "https://drive.google.com/uc?export=download&id=1ZjROWAUDbzS1ZdEKwqhRG4dOmF7fpvMs"
+        },
+        {
+          "name": "text",
+          "value": "Download travelogue of our Lapland bike tour"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "In the "
+        },
+        {
+          "type": "strong",
+          "value": "south"
+        },
+        {
+          "type": "text",
+          "value": " , the route runs close to the "
+        },
+        {
+          "type": "link",
+          "url": "https://julkaisut.metsa.fi/assets/pdf/lp/Esitteet/7-finnish-national-parks-touring-route.pdf",
+          "value": "National Park Route"
+        },
+        {
+          "type": "text",
+          "value": ". However, it leads along the east side of Lake Päijänne. You start your bike tour in "
+        },
+        {
+          "type": "strong",
+          "value": "Helsinki"
+        },
+        {
+          "type": "text",
+          "value": ", a city that alone has 1500 km of bike lanes. Here you can live it up and explore the city by bike. To Riihimäki, you follow the railway line, the first one built in Finland. There is a historical "
+        },
+        {
+          "type": "strong",
+          "value": "museum"
+        },
+        {
+          "type": "text",
+          "value": " about it in Riihimäki. Then you turn towards "
+        },
+        {
+          "type": "strong",
+          "value": "Lake Päijänne"
+        },
+        {
+          "type": "text",
+          "value": " to "
+        },
+        {
+          "type": "strong",
+          "value": "Lathi"
+        },
+        {
+          "type": "text",
+          "value": ". Pure nature is what follows."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "In "
+        },
+        {
+          "type": "link",
+          "url": "https://www.nationalparks.fi/pyha-hakkinp",
+          "value": "Pyhä-Häkki National Park"
+        },
+        {
+          "type": "text",
+          "value": " you will find the country's oldest pine trees, up to 400-year-old specimens have been preserved there. The southern part of this route ends in Oulo right on the Gulf of Bothnia. Oulo boasts of being the northernmost major city in the EU. It has a university, many cafés, a number of sights and is, like all cities in Finland, bikefriendly."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Further north you cycle through Lapland. You'll pass Rovaniemi, Santa's home, and cross the Arctic Circle. On Lapland's deserted roads you will meet reindeer and occasionally a car."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Reindeer-Lapland.jpg",
+          "alt": "Reindeer in Lapland"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Take advantage of the wilderness huts and visit Lemmenjoki National Park. In Inari, don't miss the comprehensive Sami Museum. The history of the Finnish border and of the Sami is very eventful. On our bike tour to the North Cape, from Inari we took a small but worthwhile detour along the Tana River, which is even quieter than the Finnish north already is."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Via Karelia 1080 km"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The Via Karelia runs east from Helsinki north to Salla in Lapland. The area has been inhabited since ancient times. Karelian tradesmen traveled north along this route. Via Karelia is a tourist road and not specifically designed for cyclists. However, since it is located in the remote east of the country, you can cycle all on your own on good roads through the Finnish forests."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Via-Karelia.jpg",
+          "alt": "Via Karelia Finland"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Except for short stretches, the Via Karelia runs on the EV 13, the Iron Curtain Cycle Route, which is close to the border. You come through the following places: Vaalimaa, Lappeenranta, Imatra, Parikkala, Kitee, Tohmajärvi, Joensuu, Ilomantsi, Lieksa, Nurmes, Kuhmo, Suomussalmi, Kuusamo, Salla. Just after Parikkala, it's worth taking a detour west on road 14 to "
+        },
+        {
+          "type": "link",
+          "url": "https://www.kansallismuseo.fi/en/olavinlinna",
+          "value": "Olavinlinna Castle"
+        },
+        {
+          "type": "text",
+          "value": ". On our interactive map this is the short route Mikkeli-Imatra (National Cycle Route No. 14)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "For more sights not to miss on this remote route, check out this "
+        },
+        {
+          "type": "link",
+          "url": "https://viakarelia.fi/wp-content/uploads/viakarelia_runon-ja-rajan-tie_en_v1.pdf",
+          "value": "Via Karelia description"
+        },
+        {
+          "type": "text",
+          "value": ". The Winter War and the national parks are the biggest topics on this route. Also worth seeing and experiencing are the annual chamber music festival in Kuhmo, the "
+        },
+        {
+          "type": "link",
+          "url": "https://www.visitfinland.com/en/product/05a4c520-f911-4abe-8b13-d79fb5b91e26/imatrankoski-rapids/",
+          "value": "rapids show in Imatra"
+        },
+        {
+          "type": "text",
+          "value": " or the traditional Karelian cuisine."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Winterwar-monument-Suomussalmi.jpg",
+          "alt": "Winter war monument near Suomussalmi"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "figcaption",
+          "value": "Winter War Memorial at Suomussalmi"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "type": "SevenRoutesDownload",
+      "attributes": [
+        {
+          "name": "link",
+          "value": "https://drive.google.com/uc?export=download&id=1ZjROWAUDbzS1ZdEKwqhRG4dOmF7fpvMs"
+        },
+        {
+          "name": "text",
+          "value": "Download travelogue of our Lapland bike tour"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Between Nurmes and Lieksa, the Via Karelia passes by "
+        },
+        {
+          "type": "strong",
+          "value": "Lake Pielinen"
+        },
+        {
+          "type": "text",
+          "value": " . You can also cycle around the 93 km long lake. On the west bank is "
+        },
+        {
+          "type": "link",
+          "url": "https://www.nationalparks.fi/kolinp",
+          "value": "Koli National Park"
+        },
+        {
+          "type": "text",
+          "value": " with Mount Koli, one of the very few opportunities in Finland to enjoy the view over the country from an elevated place."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "There is also an "
+        },
+        {
+          "type": "strong",
+          "value": "east-west Via Karelia"
+        },
+        {
+          "type": "text",
+          "value": ", the so-called "
+        },
+        {
+          "type": "link",
+          "url": "https://viakarelia.fi/wp-content/uploads/viakarelia_karjalan-kirkkotie_en_v2.pdf",
+          "value": "Church Road"
+        },
+        {
+          "type": "text",
+          "value": " (350 km). It starts in Heinävesi at the Karvio Canal, runs through Joensuu and Ilomantsi and ends in Värtsila, the border town where we entered Finland on our "
+        },
+        {
+          "type": "link",
+          "url": "https://weonbikes.com/en/book/",
+          "value": "cycling trip to the North Cape"
+        },
+        {
+          "type": "text",
+          "value": ". The Church Road is a Karelian Orthodox pilgrimage route and passes many churches and monasteries, the "
+        },
+        {
+          "type": "link",
+          "url": "https://viakarelia.fi/en/ortodoksisuus/lintula-holy-trinity-convent/",
+          "value": "Lintula Monastery"
+        },
+        {
+          "type": "text",
+          "value": " and the "
+        },
+        {
+          "type": "link",
+          "url": "https://en.wikipedia.org/wiki/New_Valamo",
+          "value": "New Valamo Monastery"
+        },
+        {
+          "type": "text",
+          "value": ", for example. The original monastery of Valaam is located on the island of the same name in Lake Ladoga in the Russian part of Karelia. Due to the war, the monks resettled in Finnish Karelia. In 2013, when temporarily more peaceful times had dawned, I had the opportunity to visit Valaam by sailing boat."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Valaam.jpg",
+          "alt": "Valaam Monastery in Lake Ladoga"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "figcaption",
+          "value": "Valaam on Lake Ladoga"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Archipelago Route 200 km + 50 km ferries"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Jump cut. In the south-west of Finland you can find the archipelago with the most islands on earth: the Turku Archipelago. Islands without end, an estimated thirty to fifty thousand. Beaches, sea breezes, towns and villages, bridges and ferries."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Archipelago-Route-Finland.jpg",
+          "alt": "Archipelago Route Finland"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The "
+        },
+        {
+          "type": "strong",
+          "value": "Archipelago Ring Road"
+        },
+        {
+          "type": "text",
+          "value": " opened in 1996 as a tourist route. In the east It starts in the city of "
+        },
+        {
+          "type": "strong",
+          "value": "Turku"
+        },
+        {
+          "type": "text",
+          "value": ", in the west it can be started on the island of Åland (if you are traveling from Stockholm). The ferries can be used free of charge for bicycles. In the height of summer, the streets can get crowded at weekends. Better plan the tour during the week."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "On our counterclockwise route from Turku you will pass through:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Turku, Merimasku, Lieranta, Mietoinen, Taivassalo, Kustavi, Heponiemi Kannvik Ferry, Inö, Jumo Skagen Ferry, Dalen Mossala Ferry, Mossala E Björkö Ferry, Kivimo Roslax Ferry, Kittuis Galtby Ferry , Korppoo, Retais-Pärnäs Ferry, Nauvo, Prostvik-Lillmälö Ferry, Turku"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Here you can look up the "
+        },
+        {
+          "type": "link",
+          "url": "https://www.finferries.fi/en/ferry-traffic/ferries-and-schedules.html",
+          "value": "ferry times"
+        },
+        {
+          "type": "text",
+          "value": ". On this website you can find many "
+        },
+        {
+          "type": "link",
+          "url": "https://en.wikivoyage.org/wiki/Archipelago_Trail",
+          "value": "details about the Archipelago Trail"
+        },
+        {
+          "type": "text",
+          "value": "."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Via Finlandia Helsinki – Vaasa 596 km"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Via-Finlandia_Helsinki-Vaasa.jpg",
+          "alt": "Via Finlandia Helsinki-Vaasa"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Via Finlandia is national cycle route number 3 and is signposted as such. Starting in the capital Helsinki, it heads north-west to the Gulf of Bothnia. On this trip you will also get to know the cities Tampere and Vaasa. This is the route: Helsinki - Hyvinkää - Riihimäki - Hämeenlinna - Valkeakoski - Tampere - Ikaalinen - Kurikka - Vaasa"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Hämeenlinna is the birthplace of the composer "
+        },
+        {
+          "type": "strong",
+          "value": "Jean Sibelius"
+        },
+        {
+          "type": "text",
+          "value": ". Apart from the "
+        },
+        {
+          "type": "link",
+          "url": "https://sibeliusmuseum.fi/en/sibeliusmuseum/",
+          "value": "museum"
+        },
+        {
+          "type": "text",
+          "value": " in the house of his birth, you can also visit the "
+        },
+        {
+          "type": "link",
+          "url": "https://en.wikipedia.org/wiki/H%C3%A4me_Castle",
+          "value": "Hämeen castle"
+        },
+        {
+          "type": "text",
+          "value": ". "
+        },
+        {
+          "type": "strong",
+          "value": "Tampere"
+        },
+        {
+          "type": "text",
+          "value": " is Finland's third largest city. It lies between two lakes that have a height difference of 18 m. This creates rapids in between them, from which energy is obtained. Sauna capital "
+        },
+        {
+          "type": "link",
+          "url": "https://www.tripadvisor.com/Attractions-g189948-Activities-Tampere_Pirkanmaa.html",
+          "value": "Tampere"
+        },
+        {
+          "type": "text",
+          "value": " is an urban center with everything that goes with it: Music and art, cathedral, bars, market, sights, lots of industry and 2 ports."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Continuing to the Gulf of Bothnia, you roll through nature for another 300 km or so, and enjoy urban life again in the old "
+        },
+        {
+          "type": "strong",
+          "value": "seaport of Vaasa"
+        },
+        {
+          "type": "text",
+          "value": " From here you can follow the EuroVelo 10 around the Baltic Sea or north to Lapland."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Southern Finland on Gravel Routes"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The Finnish Center for Cycle Tourism has been developing bikepacking routes since 2020. These are cycle routes that do not run on asphalt roads, but on gravel paths. At "
+        },
+        {
+          "type": "link",
+          "url": "https://www.bikeland.fi/en",
+          "value": "Bikeland.fi"
+        },
+        {
+          "type": "text",
+          "value": " you will find a detailed description of the total of 900 km of 5 routes in southern Finland."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "These routes are not difficult; 4-6/10. 45 mm tires are recommended. You can also ride these routes on a touring bike. The level of difficulty is very precisely indicated on "
+        },
+        {
+          "type": "link",
+          "url": "https://www.bikeland.fi/en/southbycycle",
+          "value": "the website of the trails"
+        },
+        {
+          "type": "text",
+          "value": " In addition, all POIs are entered in the routes. Check it out! On our interactive map we have included the routes without POIs."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The routes lead through national parks, forest and lakes and pass campgrounds, campfire sites and shopping opportunities. That sounds like a relaxing cycling holiday in the nature!"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Arctic Gravel Routes"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "2000 km of bikepacking routes have already been mapped in 2022 from the Arctic Circle in Finnish Lapland to the Norwegian Sea. 5 MTB routes for all-terrain bikes and "
+        },
+        {
+          "type": "strong",
+          "value": "6 Gravel routes"
+        },
+        {
+          "type": "text",
+          "value": ". You can find them on "
+        },
+        {
+          "type": "link",
+          "url": "https://www.bikeland.fi/en/arcticbycycle",
+          "value": "Bikeland.fi's ArcticByCycle website"
+        },
+        {
+          "type": "text",
+          "value": ". In our interactive map we have only included the long gravel routes that are feasible with a robust touring bike. The routes take into account the existing huts and infrastructure. That really makes me want to go cycling the Arctic!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "These were some of the routes on which you can cross Finland by bike. Check back from time to time, I'm sure there will be more to come. A travel route through flat, widely forested Finland can be easily planned using the routes in the Open Street Map. If you need solitude, you will find fantastic gravel routes on "
+        },
+        {
+          "type": "link",
+          "url": "http://Bikeland.fi",
+          "value": "Bikeland.fi"
+        },
+        {
+          "type": "text",
+          "value": " And those who like it urban will find "
+        },
+        {
+          "type": "link",
+          "url": "https://issuu.com/outdoorsfinland/docs/cycling_manual_eng",
+          "value": "inspiration for shorter routes here"
+        },
+        {
+          "type": "text",
+          "value": ". Start planning and..."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "emphasis",
+          "value": "Get on your bike, share the most beautiful, the safest, the shortest, the longest or the most practical bike routes with others. Talk about cycle touring. Give away a bike or a bike day! Just don't give up until everyone's riding bikes. Because cycling makes you happy."
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "type": "SevenRoutesDownload",
+      "attributes": [
+        {
+          "name": "link",
+          "value": "https://drive.google.com/drive/folders/1XaqpCmPDlPu85gkDamUgb0BjJPxGldAU?usp=sharing"
+        },
+        {
+          "name": "text",
+          "value": "Download Finland GPX/KML routes"
+        }
+      ]
+    }
+  ]
+}

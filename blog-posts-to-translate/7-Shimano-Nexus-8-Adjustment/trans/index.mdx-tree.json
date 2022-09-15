@@ -1,0 +1,362 @@
+{
+  "nodes": [
+    {
+      "type": "yaml",
+      "attributes": [
+        {
+          "name": "date",
+          "value": "2022-04-14"
+        },
+        {
+          "name": "lang",
+          "value": "en"
+        },
+        {
+          "name": "path",
+          "value": "adjust-shimano-nexus-8-gear-shifter"
+        },
+        {
+          "name": "title_post",
+          "value": "How to adjust a Shimano Nexus 8 Gear Shifter"
+        },
+        {
+          "name": "title_html",
+          "value": "Adjust the Shimano Nexus 8 Gear Shifter in 3 Easy Steps"
+        },
+        {
+          "name": "hero_image",
+          "value": "../img/Shimano-Nexus-8-adjustment-step-2.jpg"
+        },
+        {
+          "name": "hero_image_alt",
+          "value": "gear shifter marks on the Shimano Nexus hub"
+        },
+        {
+          "name": "photographer_name",
+          "value": "Adjusting the Shimano Nexus 8 Gear Shifter"
+        },
+        {
+          "name": "photographer_link",
+          "value": ""
+        },
+        {
+          "name": "description",
+          "value": "In this article you'll learn how to adjust the Shimano Nexus 8 gear hub in 3 easy steps. With video. No tools required. Why is this even important: The Shimano Nexus 8 is a great gear shifter – but only if it is precisely adjusted."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "In this article you will learn how to adjust the popular Shimano Nexus 8 gear shifter yourself "
+        },
+        {
+          "type": "strong",
+          "value": "in just 3 easy steps"
+        },
+        {
+          "type": "text",
+          "value": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Why is this even important: The Shimano Nexus 8 is a great gear shifter – but only if it is precisely adjusted."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The good news is: anyone can do it"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "What you need: a rug"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Why is the Schimano Nexus 8 so popular?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "This 8-speed gear hub from Shimano's Nexus series C6000 is insanely popular. The reasons are obvious:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The Shimano Nexus 8 is versatile. It's mainly used for cycling in the city. It is also suitable for eBikes with a higher chain tension. So all perfect, right? Exactly. As long as you pay attention to 2 things:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "👍 Do not switch gears under load!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "👍 The gear shifter needs to be precisely adjusted!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Watch the video here."
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "type": "div",
+      "attributes": [
+        {
+          "name": "class",
+          "value": "videoWrapper"
+        }
+      ],
+      "children": [
+        {
+          "id": 0,
+          "type": "iframe",
+          "attributes": [
+            {
+              "name": "width",
+              "value": "1026"
+            },
+            {
+              "name": "height",
+              "value": "577"
+            },
+            {
+              "name": "src",
+              "value": "https://www.youtube.com/embed/byTM-MrHh5U"
+            },
+            {
+              "name": "title",
+              "value": "YouTube video player"
+            },
+            {
+              "name": "frameborder",
+              "value": "0"
+            },
+            {
+              "name": "allow",
+              "value": "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            },
+            {
+              "name": "allowfullscreen",
+              "value": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The gear shifter needs to be in the 4th gear."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "👉 Start by switching into the 1st gear and then switch up gear by gear to the 4th."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "If you end up in gear 5 by accident, switch back to 1 and switch up slower."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Shimano-Nexus-8-adjustment-step-1.jpg",
+          "alt": "Shimano Nexus 8 Gangschaltung justieren Schritt 1"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "👉 Find the 2 yellow marks on the gear hub."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "They are difficult to see due to oil and dirt. Use a clean rag to clean the gear hub next to the chain."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Shimano-Nexus-8-adjustment-step-2.jpg",
+          "alt": "Shimano Nexus 8 Gangschaltung justieren Schritt 2"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "👉 Align the 2 yellow marks by turning the knob on the gear cable."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "In the following picture you'll see the knob on the gear cable that you need to turn."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Shimano-Nexus-8-adjustment-step-3-1.jpg",
+          "alt": "Shimano Nexus 8 Gangschaltung justieren Schritt 3-1"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "This is how the marks look, when they are not aligned yet. You need to turn further."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Shimano-Nexus-8-adjustment-step-3-2.jpg",
+          "alt": "Shimano Nexus 8 Gangschaltung justieren Schritt 3-2"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "This is how the marks are supposed to look like when properly aligned."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Shimano-Nexus-8-adjustment-step-3-3.jpg",
+          "alt": "Shimano Nexus 8 Gangschaltung justieren Schritt 3-3"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "That's it. If you keep your Shimano Nexus 8 nicely adjusted and don't switch gears under load, you will enjoy this reliable and versatile quality gear hub for many years."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Happy adjusting! And then..."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "emphasis",
+          "value": "Get on your bike and share the most beautiful, safest, shortest and most practical bike routes with others. Talk about bike repair. Give someone a bike or a bike day! Just don't give up until everyone's riding bikes. Because cycling makes you happy."
+        }
+      ]
+    }
+  ]
+}

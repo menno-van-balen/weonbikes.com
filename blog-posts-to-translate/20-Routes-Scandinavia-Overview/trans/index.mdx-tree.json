@@ -1,0 +1,1392 @@
+{
+  "nodes": [
+    {
+      "type": "yaml",
+      "attributes": [
+        {
+          "name": "date",
+          "value": "2022-07-20"
+        },
+        {
+          "name": "lang",
+          "value": "en"
+        },
+        {
+          "name": "path",
+          "value": "bike-routes-scandinavia"
+        },
+        {
+          "name": "title_post",
+          "value": "Bike touring in Scandinavia: Maps and All Routes"
+        },
+        {
+          "name": "title_html",
+          "value": "Long-Distance Cycle Routes in Scandinavia: Overview with Maps and GPS Routes"
+        },
+        {
+          "name": "hero_image",
+          "value": "../hero-img/Northern-Lights-Lofoten.jpg"
+        },
+        {
+          "name": "hero_image_alt",
+          "value": "Northern Lights"
+        },
+        {
+          "name": "photographer_name",
+          "value": "Uta Schulz"
+        },
+        {
+          "name": "photographer_link",
+          "value": "https://www.instagram.com/weonbikes_on_insta/"
+        },
+        {
+          "name": "description",
+          "value": "For many, a cycling holiday in Scandinavia is a dream: open landscapes, breathtaking views, wild camping, white nights or the northern lights. Here you will find tips and all routes in an overview with maps and GPX files for downloading."
+        }
+      ]
+    },
+    {
+      "type": "mdxjsEsm",
+      "value": "import SevenRoutesDownload from \"../../../src/utils/sevenRoutesDownload.js\";\r\nimport Carousel from \"../../../src/components/carousel.js\";"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The best thing about planning a bike ride is the moment when you discover a new route and imagine yourself pedaling all those kilometers through the countryside, breathing the fresh air and experiencing it yourself, right? This is exactly what we did when we researched all "
+        },
+        {
+          "type": "strong",
+          "value": "long-distance cycling routes in Norway, Sweden and Finland"
+        },
+        {
+          "type": "text",
+          "value": ". So exciting that we wanted to start our bike tour right away! In this article you will find all routes in Scandinavia, key facts and GPX files to download. Now all you have to do is choose your cycling holiday."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Cycling in Scandinavia"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Scandinavia, that is Norway, Sweden and Finland. They have a lot in common, but there are things they don't."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "White Nights and Northern Lights"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "A phenomenon which is common to all 3 countries is the summer of white nights. Depending on how far north you go, you can "
+        },
+        {
+          "type": "strong",
+          "value": "cycle almost until midnight"
+        },
+        {
+          "type": "text",
+          "value": ". Already in September, on the other hand, days get shorter and you can see the "
+        },
+        {
+          "type": "strong",
+          "value": "Northern Lights"
+        },
+        {
+          "type": "text",
+          "value": ". Tip: The area around 70 degree north is best for spotting northern lights, the Lofoten on the Coastal Route in Norway, or Rovaniemi on the EuroVelo 11 through Finland, for example. But you can also be lucky elsewhere to see the green glow in the sky."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Mosquitoes at the Lake"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Another common phenomenon Scandinavia is famous for are mosquitoes. The beasts have high season from June. They disappear with the first frost, sometime in September. While cycling, they don't bother you. But as soon as you settle down comfortably on the shore of one of the countless idyllic lakes, you should be prepared: a mosquito net for your head and mosquito-proof clothing. Fortunately, the evening hours are so cool that you would wear the clothes anyway. The spectacular views and vast, lonely landscapes will make up for the effort. Don't let a few mosquitoes spoil your cycling holiday."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Rain on Cycling Vacation"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "We're not sugarcoating it: Vacation in Scandinavia without rain is extremely unlikely. Cycling in the sunshine is great, but with the "
+        },
+        {
+          "type": "strong",
+          "value": "right rain gear"
+        },
+        {
+          "type": "text",
+          "value": " and a suitable tent, you can keep up the holiday spirit even when the weather is bad for a couple of days. That's how it's done: Accept the rain. Especially in Sweden and Finland, the landscape looks beautiful even in the rain, or then the most! The raindrops sparkle on moss and lichen and the green of the forests almost leaps at you."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Rain gear: There is no such thing as 100% waterproof rainwear. It just delays getting wet. At some point the water runs into the collar, into the sleeves, from the jacket into the trousers, from the trousers into the shoes. You could ride until you feel your clothes under the raingear get wet and then shelter or set up your tent. If you get completely wet, you should keep going until you come to a place where you can dry yourself."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Rainwear only makes sense when it's cold enough. Otherwise, you sweat under your clothes as if you had cycled without them. In Scandinavia it is cold when it rains. Especially in Norway where the rain goes with wind. Sturdy, really waterproof rain gear is worth it here. That your raingear is light and breathable is secondary if you want to keep up your holiday spirit."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Your "
+        },
+        {
+          "type": "strong",
+          "value": "tent"
+        },
+        {
+          "type": "text",
+          "value": " should be suitable for rain. Practical is an anteroom, where you can cook and sit out the rain for a few hours. "
+        },
+        {
+          "type": "strong",
+          "value": "Tunnel tents"
+        },
+        {
+          "type": "text",
+          "value": " usually offer large anterooms. They also have the advantage that you "
+        },
+        {
+          "type": "strong",
+          "value": "can dismantle the inner tent individually"
+        },
+        {
+          "type": "text",
+          "value": ". That way it stays dry. So the next time you set it up, you put your mat in a dry inner tent. Sounds good, right?"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Mountains"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Let's get to the differences. The mountains are very unevenly distributed in Scandinavia. The Scandinavian Mountains run all the way through Norway. The whole country is one big mountain range. In addition, the coast is rugged by countless fjords. In Norway you will make a lot of climbs and many kilometers in east-west direction to advance far less kilometers north to south. You will be compensated with the most breathtaking views in the world (my opinion)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Avoid detours by carefully planning your cycle route through Norway. At weonbikes.com you can download GPX files for all routes for your planning. If you want to be sure your route is feasible, "
+        },
+        {
+          "type": "link",
+          "url": "https://www.cyclenorway.com/services",
+          "value": "Matthew from Cycle Norway"
+        },
+        {
+          "type": "text",
+          "value": " will help you personally with route planning in Norway."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "In contrast to Norway, in Sweden and Finland you can just start cycling with a rough idea of your direction. In western Sweden there are still mountainous areas. Eastern Sweden and Finland are completely flat. Ideal for cycling with luggage."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Tunnels"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Speaking of detours. There are thousands of tunnels in Norway. Many of these tunnels are closed to cyclists. You should get information about it in advance. This is, because there is not always an alternative, which brings us back to detours. In Norway you should plan your route well in advance. Check out our "
+        },
+        {
+          "type": "link",
+          "url": "https://weonbikes.com/en/blog/cycling-routes-norway-1/",
+          "value": "Norway article with interactive map"
+        },
+        {
+          "type": "text",
+          "value": " and this "
+        },
+        {
+          "type": "link",
+          "url": "https://www.cycletourer.co.uk/maps/tunnelmap.shtml",
+          "value": "website with tunnels in Norway for cyclists"
+        },
+        {
+          "type": "text",
+          "value": "."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Cycle Routes in Norway"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "In this overview you will find Norway's 10 national cycle routes as well as the 13 highlights that you shouldn't miss if you cycle along one of these long-distance cycle routes. EuroVelo 1 and EuroVelo 12 run through Norway. They coincide with the Coastal Cycling Route. In addition, there is EuroVelo 3 to Trondheim. It coincides with the Norwegian pilgrimage route. The national long-distance cycle routes are called "
+        },
+        {
+          "type": "emphasis",
+          "value": "Nasjonal Sykkelroute"
+        },
+        {
+          "type": "text",
+          "value": " and are abbreviated to"
+        },
+        {
+          "type": "emphasis",
+          "value": "NSR"
+        }
+      ]
+    },
+    {
+      "type": "Carousel",
+      "attributes": [
+        {
+          "name": "height",
+          "value": "600"
+        },
+        {
+          "name": "imagesObject",
+          "value": [
+            [
+              {
+                "name": "name",
+                "value": "NSR1-0-Coastal-Route-Norway.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Coastal Route 4500 km (NSR1)"
+              },
+              {
+                "name": "title",
+                "value": "Coastal Route 4500 km (NSR1)"
+              },
+              {
+                "name": "text",
+                "value": "National cycle route no. 1 with countless highlights. On this long-distance cycle route you pedal from the North Cape along the entire Norwegian coast to the Swedish border in the south."
+              },
+              {
+                "name": "linkText",
+                "value": "Find out more about the Coastal Route"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycling-routes-norway-1/#1-coastal-route-4500-km"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "NSR1-1-Jaeren-Route-Norway.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "North Sea Route across Jæren 400 km (part of NSR 1)"
+              },
+              {
+                "name": "title",
+                "value": "North Sea Route across Jæren 400 km (part of NSR 1)"
+              },
+              {
+                "name": "text",
+                "value": "This route is one of the highlights of the Coastal Route: Beach, cultural sights, Geo Park."
+              },
+              {
+                "name": "linkText",
+                "value": "Find out more about the Jæren Route"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycling-routes-norway-3/#5-north-sea-coastal-route-through-j%C3%A6ren-140-km-nsr-1"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "NSR1-2-Helgeland-Route-Norway.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Helgeland Coastal Route approx. 500 km (part of NSR 1)"
+              },
+              {
+                "name": "title",
+                "value": "Helgeland Coastal Route approx. 500 km (part of NSR 1)"
+              },
+              {
+                "name": "text",
+                "value": "The Helgeland route is also a part of the Coastal Route. Here you'll find the famous Torghatten mountain with the hole in the middle, and you ride over the Arctic Circle."
+              },
+              {
+                "name": "linkText",
+                "value": "Find out more about the Helgeland route"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycling-routes-norway-3/#6-helgeland-coastal-route-ca-500-km-nsr-1"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "NSR1-3-Classic-Fjord-Route-Norway.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Classic Fjord Route approx. 570 km (part of NSR 1)"
+              },
+              {
+                "name": "title",
+                "value": "Classic Fjord Route approx. 570 km (part of NSR 1)"
+              },
+              {
+                "name": "text",
+                "value": "On this route you will experience all the well-known highlights of Norway: the famous Atlantic Road, **Trollstigen** with its hairpin bends, the **Geirangerfjord** and above that **Dalsnibber**, the highest viewpoint over a fjord. This route is also part of the Coastal Route."
+              },
+              {
+                "name": "linkText",
+                "value": "More about the Classic Fjord Route here"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycling-routes-norway-3/#10-classic-fjord-route-ca-570-km-nsr-1"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "NSR1-4-Andoya-Loop-Norway.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Andøya in Vesterålen 140 km (part of NSR 1)"
+              },
+              {
+                "name": "title",
+                "value": "Andøya in Vesterålen 140 km (part of NSR 1)"
+              },
+              {
+                "name": "text",
+                "value": "At the very north of the Coastal Route on Vesterålen you can cycle around the island of Andøya. A unique experience in the Norwegian Sea: white beaches above the Arctic Circle. You do not believe me?"
+              },
+              {
+                "name": "linkText",
+                "value": "Check out more about the cycle route around Andøya"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycling-routes-norway-3/#12-and%C3%B8ya-in-vester%C3%A5len-100-km-nsr-1"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "NSR2-0-Canal-Route-Norway.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Canal Route 386 km (NSR 2)"
+              },
+              {
+                "name": "title",
+                "value": "Canal Route 386 km (NSR 2)"
+              },
+              {
+                "name": "text",
+                "value": "This route runs east-west from Stavanger to Porsgrunn through southern Norway. The Telemark Canal and Suleskarvegen are the highlights between Skagerrak and the west coast."
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "NSR2-1-Telemark-Canal-Norway.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Telemark Canal 113 km (part of NSR 2)"
+              },
+              {
+                "name": "title",
+                "value": "Telemark Canal 113 km (part of NSR 2)"
+              },
+              {
+                "name": "text",
+                "value": "An idyllic cycle route along forest paths and quiet roads along the 18 locks of the Telemark Canal."
+              },
+              {
+                "name": "linkText",
+                "value": "More about the history of this special canal"
+              },
+              {
+                "name": "link",
+                "value": "https://en.wikipedia.org/wiki/Telemark_Canal"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "NSR2-2-Suleskarvegen-Norway.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Suleskarvegen 135 km (part of NSR 2)"
+              },
+              {
+                "name": "title",
+                "value": "Suleskarvegen 135 km (part of NSR 2)"
+              },
+              {
+                "name": "text",
+                "value": "Suleskarvegen is a mountain road with splendid views on the Canal Route. It is part of the Norwegian Landscape Routes."
+              },
+              {
+                "name": "linkText",
+                "value": "More info on the Sulekarvegen website"
+              },
+              {
+                "name": "link",
+                "value": "https://suleskarvegen.no/en/for-those-not-in-a-hurry/"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "NSR3-0--Fjord-Mountain-Route-Norway.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Fjord and Mountain Route 1000 km (NSR 3)"
+              },
+              {
+                "name": "title",
+                "value": "Fjord and Mountain Route 1000 km (NSR 3)"
+              },
+              {
+                "name": "text",
+                "value": "This national long-distance cycle route runs north-south through Norway's fjord landscape and mountains. Spectacular views and lots of climbs."
+              },
+              {
+                "name": "linkText",
+                "value": "More about the Fjord and Mountain route here"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycling-routes-norway-1/#3-fjord-and-mountain-route-1000-km"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "NSR3-1-Majestic-Fjord-Route-Norway.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Majestic Fjord Route 290 km (part of NSR 3)"
+              },
+              {
+                "name": "title",
+                "value": "Majestic Fjord Route 290 km (part of NSR 3)"
+              },
+              {
+                "name": "text",
+                "value": "Leads through Mykedal, over Gaularfjellet to famous Sognefjord. Can be reached by train from Bergen and Oslo."
+              },
+              {
+                "name": "linkText",
+                "value": "Here you can find a video of the Majestic Fjord Route"
+              },
+              {
+                "name": "link",
+                "value": "https://www.youtube.com/watch?v=Oh7xhg4ub4w"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "NSR4-0-Rallarvegen-Norway.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Rallarvegen 500 km (NSR 4)"
+              },
+              {
+                "name": "title",
+                "value": "Rallarvegen 500 km (NSR 4)"
+              },
+              {
+                "name": "text",
+                "value": "Probably the most popular long-distance cycle route in Norway. Rallarvegen means railway road. It runs in an east-west direction along the railway line between Oslo and Bergen over the Hardangervidda plateau."
+              },
+              {
+                "name": "linkText",
+                "value": "Here you can find more about Rallarvegen"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycling-routes-norway-1/#4-rallarvegen-500-km"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "NSR4-1-Rallarvegen-Haugestol-Flam-Norway.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Rallarvegen to Flåm 82 km (part of NSR 4)"
+              },
+              {
+                "name": "title",
+                "value": "Rallarvegen to Flåm 82 km (part of NSR 4)"
+              },
+              {
+                "name": "text",
+                "value": "The section of Rallarvegen between Haugastøl and Flåm through Hardangervidda - a must. Car-free and easily accessible by train!"
+              },
+              {
+                "name": "linkText",
+                "value": "Visit the official Rallarvegen website"
+              },
+              {
+                "name": "link",
+                "value": "https://www.rallarvegen.com/en/rallarvegen"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "NSR5-0-Numedal-Route-Norway.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Numedal Route 950 km (NSR 5)"
+              },
+              {
+                "name": "title",
+                "value": "Numedal Route 950 km (NSR 5)"
+              },
+              {
+                "name": "text",
+                "value": "The route starts in Larvik in southeastern Norway by the sea and heads north through the Numedal valley to Geilo. Geilo is located on the Rallarvegen route. A nice connecting route."
+              },
+              {
+                "name": "linkText",
+                "value": "You can find out more about the Numedal route here"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycling-routes-norway-1/#5-numedal-route-950-km"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "NSR5-1-Mjolkevegen-Norway.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Mjølkevegen in Valdres 250 km (part of NSR 5)"
+              },
+              {
+                "name": "title",
+                "value": "Mjølkevegen in Valdres 250 km (part of NSR 5)"
+              },
+              {
+                "name": "text",
+                "value": "We continue on the Numedal Route further north of Rallarvegen. A super popular part of the route is Mjølkevegen in the Valdres area. On gravel paths through forest and tundra to Jotunheimen National Park."
+              },
+              {
+                "name": "linkText",
+                "value": "More about Mjølkevegen"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycling-routes-norway-3/#2-mj%C3%B8lkevegen-in-valdres-250-km-nsr-5"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "NSR5-2-Dovre-Loop-Norway.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Dovre Loop 125 km (part of NSR 5)"
+              },
+              {
+                "name": "title",
+                "value": "Dovre Loop 125 km (part of NSR 5)"
+              },
+              {
+                "name": "text",
+                "value": "Bike tour through Dovre National Park on gravel paths through the tundra: Viewpoints and musk oxen. Part of the Numedalroute near Ålesund."
+              },
+              {
+                "name": "linkText",
+                "value": "More on the Dovre Loop"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycling-routes-norway-3/#4-dovre-loop-125-km-nsr-5"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "NSR6-Sognefjellsvegen-Norway.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Sognefjellsvegen Route 800 km (NSR 6)"
+              },
+              {
+                "name": "title",
+                "value": "Sognefjellsvegen Route 800 km (NSR 6)"
+              },
+              {
+                "name": "text",
+                "value": "Starts in the mining town of Røros near the Swedish border and heads southwest to the Hardangerfjord via the famous Sognefjellsvegen mountain pass road. The R55 is the highest pass road in Europe."
+              },
+              {
+                "name": "linkText",
+                "value": "More about the Sognefhellsvegen Route"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycling-routes-norway-2/"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "NSR7-0-Pilgrims-Route-Norway.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Pilgrim's Route 700 km (NSR 7)"
+              },
+              {
+                "name": "title",
+                "value": "Pilgrim's Route 700 km (NSR 7)"
+              },
+              {
+                "name": "text",
+                "value": "This route follows EuroVelo 3 to Trondheim. More urban than other routes through Norway, it passes through Oslo and Lillehammer and past many places and churches. For culture lovers."
+              },
+              {
+                "name": "linkText",
+                "value": "More on the pilgrimage route"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycling-routes-norway-2/#7-pilgrims-route-700-km"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "NSR7-1-Mjostrakk-Norway.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Mjøstråkk around lake Mjøsa 234 km (part of NSR 7)"
+              },
+              {
+                "name": "title",
+                "value": "Mjøstråkk around lake Mjøsa 234 km (part of NSR 7)"
+              },
+              {
+                "name": "text",
+                "value": "Easy detour around Mjøsa, Norway's largest lake."
+              },
+              {
+                "name": "linkText",
+                "value": "Find out more about Mjøstråkk here"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycling-routes-norway-3/#8-mj%C3%B8str%C3%A5kk-around-lake-mj%C3%B8sa-234-km-nsr-7"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "NSR7-2-Oslo-Fjord-Loop-Norway.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Oslofjord Loop 215 km (NSR 7)"
+              },
+              {
+                "name": "title",
+                "value": "Oslofjord Loop 215 km (NSR 7)"
+              },
+              {
+                "name": "text",
+                "value": "For the change get to know country and people. This route loops around the urban area of Oslo Fjord. Many small places, sights and culinary delights. Definitely not crowded."
+              },
+              {
+                "name": "linkText",
+                "value": "More on the Oslo Loop"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycling-routes-norway-3/#11-around-oslo-fjord-215-km-nsr-7"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "NSR7-2-Oslo-Fjord-Loop-Norway.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Oslofjord Loop 215 km (NSR 7)"
+              },
+              {
+                "name": "title",
+                "value": "Oslofjord Loop 215 km (NSR 7)"
+              },
+              {
+                "name": "text",
+                "value": "For the change get to know country and people. This route loops around the urban area of Oslo Fjord. Many small places, sights and culinary delights. Definitely not crowded."
+              },
+              {
+                "name": "linkText",
+                "value": "More on the Oslo Loop"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycling-routes-norway-3/#11-around-oslo-fjord-215-km-nsr-7"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "NSR8-Trollheimen-Route-Norway.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Trollheimen Route 166 km (NSR 8)"
+              },
+              {
+                "name": "title",
+                "value": "Trollheimen Route 166 km (NSR 8)"
+              },
+              {
+                "name": "text",
+                "value": "Short but spectacular Route through Trollheimen National Park roughly near Ålesund. Connects the Coastal Route with the Pilgrim's Route."
+              },
+              {
+                "name": "linkText",
+                "value": "Don't miss the Åmotan waterfall"
+              },
+              {
+                "name": "link",
+                "value": "https://www.tripadvisor.com/Attraction_Review-g2416787-d3522659-Reviews-Amotan-Sunndal_Municipality_More_og_Romsdal_Western_Norway.html"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "NSR9-Villmark-Route-Norway.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Villmarks Route 800 km"
+              },
+              {
+                "name": "title",
+                "value": "Villmarks Route 800 km"
+              },
+              {
+                "name": "text",
+                "value": "As an alternative to the Pilgrim's Route, you can take this much quieter route in the very east of the country. From Trondheim to Frederikstad a little less hilly overall."
+              },
+              {
+                "name": "linkText",
+                "value": "More on the Wilderness Route"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycling-routes-norway-2/#9-wilderness-route-villmarksruta-800-km"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "NSR10-0-Ofoten-Route-Norway.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "North Cape - Lindesnes (fragment) 550 km"
+              },
+              {
+                "name": "title",
+                "value": "North Cape - Lindesnes (fragment) 550 km"
+              },
+              {
+                "name": "text",
+                "value": "In future, this long-distance cycle route will cross the entire country from north to south. So far there is a section in the north that can serve as a good alternative to the Lofoten route with its many ferries. It runs through the Ofoten near Narvik."
+              },
+              {
+                "name": "linkText",
+                "value": "More about the NSR 10 here"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycling-routes-norway-2/#10-north-cape--lindesnes"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "NSR10-1-Lavkarittet-Norway-onNSR10.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Lavkaløypa in Lyngenfjord 68 km (at NSR 10)"
+              },
+              {
+                "name": "title",
+                "value": "Lavkaløypa in Lyngenfjord 68 km (at NSR 10)"
+              },
+              {
+                "name": "text",
+                "value": "This gravel route is part of a popular cycling race, the Lavkarittet. A detour with spectacular views for trail fans, which is best done without luggage."
+              },
+              {
+                "name": "linkText",
+                "value": "More on the Lavkaloypa here"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycling-routes-norway-3/#7-lavkal%C3%B8ypa-in-lyngenfjord-68-km-nsr-10"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "type": "SevenRoutesDownload",
+      "attributes": [
+        {
+          "name": "link",
+          "value": "https://drive.google.com/drive/folders/1v1DVaKtnbta5TXeCEtRdEmq2oG31yyEs?usp=sharing"
+        },
+        {
+          "name": "text",
+          "value": "Download GPX routes Norway"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Cycle Routes in Sweden"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Sweden is an uncomplicated country for bike touring. The routes are marked on the Open Cycle Map. In this overview you will find the most important long-distance cycle routes in Sweden."
+        }
+      ]
+    },
+    {
+      "type": "Carousel",
+      "attributes": [
+        {
+          "name": "height",
+          "value": "600"
+        },
+        {
+          "name": "imagesObject",
+          "value": [
+            [
+              {
+                "name": "name",
+                "value": "1-EuroVelo7-Sweden.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "EuroVelo 7 Sun Route 3000 km in Sweden"
+              },
+              {
+                "name": "title",
+                "value": "EuroVelo 7 Sun Route 3000 km in Sweden"
+              },
+              {
+                "name": "text",
+                "value": "The Sun Route from the North Cape to Italy runs north-south through Sweden, crossing the entire country from Lapland along the northern part of the Gulf of Bothnia to Gothenburg."
+              },
+              {
+                "name": "linkText",
+                "value": "You can find out more about EuroVelo 7 here"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/7-cycling-routes-europe-north-to-south/#3-sun-route-7700-km-eurovelo-7"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "2-EuroVelo10-Sweden.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "EuroVelo 10 Baltic Coast Route 2375 km in Sweden"
+              },
+              {
+                "name": "title",
+                "value": "EuroVelo 10 Baltic Coast Route 2375 km in Sweden"
+              },
+              {
+                "name": "text",
+                "value": "The long-distance cycle route around the Baltic Sea in Sweden runs along the western side of the Gulf of Bothnia and the northern shore of the Baltic Sea."
+              },
+              {
+                "name": "linkText",
+                "value": "More about EuroVelo 0"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/3-european-seas-by-bike/#1-baltic-sea-cycle-route-9000-km-eurovelo-10"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "3-EuropeanDivideTrail-Sweden.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "European Divide Trail 2022 km in Sweden"
+              },
+              {
+                "name": "title",
+                "value": "European Divide Trail 2022 km in Sweden"
+              },
+              {
+                "name": "text",
+                "value": "The European Divide Trail is a long-distance gravel cycle route that runs through Europe from Norway to Portugal. It crosses Sweden from the very north to Helsingborg on the border with Denmark in the south. You can find out more about the route on the"
+              },
+              {
+                "name": "linkText",
+                "value": "European Divide Trail website"
+              },
+              {
+                "name": "link",
+                "value": "https://europeandividetrail.com/"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "4-Sverigeleden-Sweden.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Sverigeleden 2620 km"
+              },
+              {
+                "name": "title",
+                "value": "Sverigeleden 2620 km"
+              },
+              {
+                "name": "text",
+                "value": "The most important and longest cycle route in Sweden is the Sverigeleden. It has many branches. On the main route you cross the country in a north-south direction."
+              },
+              {
+                "name": "linkText",
+                "value": "Read here all about the Sverigeleden"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycling-routes-sweden/#sverigeleden-karesuando---helsingborg-2620-km"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "5-Three-National-Routes-Sweden.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "3 National Long-Distance Cycle Routes Sweden"
+              },
+              {
+                "name": "title",
+                "value": "3 National Long-Distance Cycle Routes Sweden"
+              },
+              {
+                "name": "text",
+                "value": "The well-developed **Kattegatleden** coincides with EuroVelo 12 and runs along the west coast of the country from Gothenburg to Helsingborg. On the **Sydostleden** you cycle through idyllic places to the south coast and then enjoy the Swedish archipelago. On the **Sydkustleden** you pass Sweden's southernmost point. Idyllic harbor places and provincial summer fair romance."
+              },
+              {
+                "name": "linkText",
+                "value": "More on Sweden's 3 national long-distance cycle routes"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycling-routes-sweden/#swedens-3-national-cycle-routes-900-km"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "6-Rail-Trails-Sweden.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Rail Trail Cycle Routes Sweden"
+              },
+              {
+                "name": "title",
+                "value": "Rail Trail Cycle Routes"
+              },
+              {
+                "name": "text",
+                "value": "Banvallsleden (Pink) **runs** east-west in southern Sweden from Karlshamn-Halmstad through Åsnen National Park. Train station romance and salmon fishing in the Mörrumsån river. The **Sjuhärads Loop** (Green) runs east of Gothenburg, is signposted, family-friendly with plenty of campsites and accommodation."
+              },
+              {
+                "name": "linkText",
+                "value": "More on Sweden's rail trail cycle routes"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycling-routes-sweden/#banvallsleden-karlshamn-halmstad-250-km"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "7-Lake-Routes-Sweden.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Lake Cycle Routes Sweden"
+              },
+              {
+                "name": "title",
+                "value": "Lake Cycle Routes"
+              },
+              {
+                "name": "text",
+                "value": "On the loop around **Lake Mälaren** near Stockholm, you can enjoy the lake idyll on forest paths. The **Vänern** is Sweden's largest lake. Varied landscape, villages and comfortable infrastructure."
+              },
+              {
+                "name": "linkText",
+                "value": "More about Sweden's Lake Cycle Routes"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycling-routes-sweden/#lake-m%C3%A4laren-cycle-route-440-km"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "8-Island-Routes-Sweden.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Island Routes Sweden"
+              },
+              {
+                "name": "title",
+                "value": "Island Routes"
+              },
+              {
+                "name": "text",
+                "value": "**Gotland** is the largest island in the Baltic Sea. The most important sight is the medieval town of Visby and its medieval festival in the 32nd calendar week. The island of **Öland** is easy to reach. The cycle route is part of the Sverigeleden."
+              },
+              {
+                "name": "linkText",
+                "value": "More on island routes in Sweden"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycling-routes-sweden/#gotland-route-500-km"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "type": "SevenRoutesDownload",
+      "attributes": [
+        {
+          "name": "link",
+          "value": "https://drive.google.com/drive/folders/1CynrX_tHHRSNyZYcQHQMNBJZfJrbjDJB?usp=sharing"
+        },
+        {
+          "name": "text",
+          "value": "Download GPX Routes Sweden"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Cycle Routes in Finland"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Finland is flat and ideal for a first cycling holiday on a budget. Wild camping is allowed! EuroVelo 10, EuroVelo 11 and EuroVelo 13 pass through the country. On the various other long-distance cycle routes on roads and gravel routes through the forest you can simply cycle away."
+        }
+      ]
+    },
+    {
+      "type": "Carousel",
+      "attributes": [
+        {
+          "name": "height",
+          "value": "600"
+        },
+        {
+          "name": "imagesObject",
+          "value": [
+            [
+              {
+                "name": "name",
+                "value": "1-Helsinki-Nuorgam-Finland.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Helsinki-Nuorgam 1567 km"
+              },
+              {
+                "name": "title",
+                "value": "Helsinki-Nuorgam 1567 km"
+              },
+              {
+                "name": "text",
+                "value": "Crossing the whole country from north to south! National parks, Lapland, reindeer. Coincides with EuroVelo 11 for the most part."
+              },
+              {
+                "name": "linkText",
+                "value": "More on EuroVelo 11 through Finland"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycle-routes-finland/#eurovelo-routes-through-finland"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "2-EuroVelo10-Finland.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "EuroVelo 10 Baltic Coast Route 1590 km Finland"
+              },
+              {
+                "name": "title",
+                "value": "EuroVelo 10 Baltic Coast Route 1590 km"
+              },
+              {
+                "name": "text",
+                "value": "The long-distance cycle route along the Gulfs of Finland and Bothnia leads through Helsinki, Turku, Vaasa and the northernmost city of Oulo to Lapland and finally to Sweden."
+              },
+              {
+                "name": "linkText",
+                "value": "More about EuroVelo 10"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/3-european-seas-by-bike/#1-baltic-sea-cycle-route-9000-km-eurovelo-10"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "3-Via-Karelia-Finland.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Via Karelia 1080 km"
+              },
+              {
+                "name": "title",
+                "value": "Via Karelia 1080 km"
+              },
+              {
+                "name": "text",
+                "value": "Tourist route through North Karelia. You cycle in the east of the country from the Gulf of Finland up north to Lapland."
+              },
+              {
+                "name": "linkText",
+                "value": "More on the Via Karelia"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/blog/fahrradrouten-finnland/#via-finlandia-helsinki--vaasa-596-km"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "4-Archipelago-Route-Finland.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Archipelago Route 250 km"
+              },
+              {
+                "name": "title",
+                "value": "Archipelago Route 250 km"
+              },
+              {
+                "name": "text",
+                "value": "Loop across the Turku Archipelago on the Archipelago Ring Road."
+              },
+              {
+                "name": "linkText",
+                "value": "Archipelago Route details"
+              },
+              {
+                "name": "link",
+                "value": "https://en.wikivoyage.org/wiki/Archipelago_Trail"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "5-Via-Finlandia-Finland.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Via Finlandia 596 km"
+              },
+              {
+                "name": "title",
+                "value": "Via Finlandia 596 km"
+              },
+              {
+                "name": "text",
+                "value": "Runs from Helsinki via Tampere to Vaasa. You get to know country and people."
+              },
+              {
+                "name": "linkText",
+                "value": "More about the Via Finlandia by bike"
+              },
+              {
+                "name": "link",
+                "value": "https://weonbikes.com/en/blog/cycle-routes-finland/#via-finlandia-helsinki--vaasa-596-km"
+              }
+            ],
+            [
+              {
+                "name": "name",
+                "value": "6-Gravel-Routes-Finland.jpg"
+              },
+              {
+                "name": "alt",
+                "value": "Gravel Routes in Southern Finland and Lapland"
+              },
+              {
+                "name": "title",
+                "value": "Gravel Routes in Southern Finland and Lapland"
+              },
+              {
+                "name": "text",
+                "value": "Bikepacking routes through forest and tundra, which are feasible on a touring bike with luggage. You find exact routes on the"
+              },
+              {
+                "name": "linkText",
+                "value": "official website of ArticByBicycle"
+              },
+              {
+                "name": "link",
+                "value": "https://www.bikeland.fi/en/bikepacking"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "type": "SevenRoutesDownload",
+      "attributes": [
+        {
+          "name": "link",
+          "value": "https://drive.google.com/drive/folders/1UHgkSRR2_Yit914y2z0zlCu_SoDif_cB?usp=sharing"
+        },
+        {
+          "name": "text",
+          "value": "Download GPX route Finland"
+        }
+      ]
+    }
+  ]
+}

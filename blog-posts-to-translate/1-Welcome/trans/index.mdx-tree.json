@@ -1,0 +1,248 @@
+{
+  "nodes": [
+    {
+      "type": "yaml",
+      "attributes": [
+        {
+          "name": "date",
+          "value": "2022-03-03"
+        },
+        {
+          "name": "lang",
+          "value": "en"
+        },
+        {
+          "name": "path",
+          "value": "bicycle-touring-blog-and-events-2022-posts-and-plans-on-weonbikes"
+        },
+        {
+          "name": "title_post",
+          "value": "Bicycle touring blog and events 2022"
+        },
+        {
+          "name": "title_html",
+          "value": "Bicycle touring blog and events 2022 - posts and plans on WeOnBikes"
+        },
+        {
+          "name": "hero_image",
+          "value": "../hero-img/Wologda-trainline-logo.jpg"
+        },
+        {
+          "name": "hero_image_alt",
+          "value": "Bikepacker in between rails in Vologda and Weonbikes logo"
+        },
+        {
+          "name": "photographer_name",
+          "value": "Menno van Balen"
+        },
+        {
+          "name": "photographer_link",
+          "value": "https://www.instagram.com/weonbikes_on_insta/"
+        },
+        {
+          "name": "description",
+          "value": "WeOnBikes first blog post. Here you'll find out about our next bike touring topics, which cycling events you can visit live again in 2022 and which ones regularly, and what we are planning with our website and our book From Moscow to the North Cape by bicycle."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "strong",
+          "value": "Welcome to our new website weonbikes.com. Here we will regularly write about our life by bicycle. We are glad that you've found us."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Which articles about bicycle touring can you read here soon"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "In the next post we will look at cycling routes that run through Europe from north to south. Because that will be our next big bike touring adventure: from the North Cape in Norway to Cabo de São Vincente in Portugal. From Cape to Cape through Europe."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "There is a variety of routes: European Divide trail, Atlantic coast route or one along the Russian border and through Poland towards Italy - so many possibilities. How are you supposed to decide? Which apps are the best for planning and saving routes? Where can you find travel guides or travel reports from other bikepackers?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Once the route is roughly decided, the following posts go into the details: road or trail? Touring or bikepacking? What kind of bicycle goes with which route?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Until we start in 2023, of course, we don't just want to plan, we also want to go on cycling trips and stay up to date on what's happening in the cycling world."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Which bicycle events take place live again in 2022"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Several events will presumably return as in-presence events this year:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "By now still not in-presence:"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "What kind of bicycle events can you visit on a regular base"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://en.wikipedia.org/wiki/Critical_Mass_(cycling)",
+          "value": "Critical Mass"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Under the Critical Mass banner bicycle meetings are held "
+        },
+        {
+          "type": "strong",
+          "value": "regularly"
+        },
+        {
+          "type": "text",
+          "value": " in various cities. In "
+        },
+        {
+          "type": "link",
+          "url": "http://www.massacriticapt.net/",
+          "value": "Lisbon"
+        },
+        {
+          "type": "text",
+          "value": ", for example, always on the last Friday of the month. Here you will find "
+        },
+        {
+          "type": "link",
+          "url": "https://criticalmass.in/world",
+          "value": "your city"
+        },
+        {
+          "type": "text",
+          "value": ". In Germany, Critical Mass for children - "
+        },
+        {
+          "type": "link",
+          "url": "https://kinderaufsrad.org/kidical-mass-2021-in-bildern/",
+          "value": "\"Kidicalmass\""
+        },
+        {
+          "type": "text",
+          "value": " was a great success last year and is therefore planned to take place again in 2022: on May 14th/15th and on September 24th/25th at "
+        },
+        {
+          "type": "link",
+          "url": "https://kinderaufsrad.org/aktionsbuendnis/#aktionsorte",
+          "value": "various locations"
+        },
+        {
+          "type": "text",
+          "value": "."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "What are our plans with our website weonbikes.com"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "About our last cycling tour "
+        },
+        {
+          "type": "link",
+          "url": "https://weonbikes.com/en/book",
+          "value": "from Moscow to the North Cape by bicycle"
+        },
+        {
+          "type": "text",
+          "value": " we made a book, which is available at "
+        },
+        {
+          "type": "link",
+          "url": "https://www.bod.de/buchshop/catalogsearch/result/?q=Uta+Schulz",
+          "value": "BoD"
+        },
+        {
+          "type": "text",
+          "value": " in German and English and is also on "
+        },
+        {
+          "type": "link",
+          "url": "https://www.amazon.com/Uta-Schulz/e/B09SVCVM7H?ref=sr_ntt_srch_lnk_1&qid=1646048903&sr=1-1",
+          "value": "Amazon"
+        },
+        {
+          "type": "text",
+          "value": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "By World Bicycle Day on June 3rd, 2022, we'll publish the book in Dutch and Portugues. We also want our website to be in "
+        },
+        {
+          "type": "strong",
+          "value": "four languages"
+        },
+        {
+          "type": "text",
+          "value": ". We live in Portugal. German and Dutch are our native languages and we speak English with everyone who doesn't have these languages in common with us. A challenge that we accepted, because our multilingual life is part of our identity, because we don't want to decide for one language only and because we want to be understood by all our friends."
+        }
+      ]
+    }
+  ]
+}

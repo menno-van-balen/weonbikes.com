@@ -1,0 +1,1111 @@
+{
+  "nodes": [
+    {
+      "type": "yaml",
+      "attributes": [
+        {
+          "name": "date",
+          "value": "2022-06-30"
+        },
+        {
+          "name": "lang",
+          "value": "en"
+        },
+        {
+          "name": "path",
+          "value": "cycling-routes-sweden"
+        },
+        {
+          "name": "title_post",
+          "value": "Cycle Touring in Sweden: Best Routes and Important Tips"
+        },
+        {
+          "name": "title_html",
+          "value": "Bike Touring in Sweden - Stunning, Easy, Made for First Timers"
+        },
+        {
+          "name": "hero_image",
+          "value": "../hero-img/Kattegattleden.jpg"
+        },
+        {
+          "name": "hero_image_alt",
+          "value": "Westcoast Sweden"
+        },
+        {
+          "name": "photographer_name",
+          "value": ""
+        },
+        {
+          "name": "photographer_link",
+          "value": "https://www.instagram.com/weonbikes_on_insta/"
+        },
+        {
+          "name": "description",
+          "value": "Cycling in Sweden is ideal for bike touring beginners. A signposted cycle path network, cycle-friendly landscapes, wild camping allowed and white nights. In this article you will find cycling routes and essentials for your summer cycling vacation, an interactive map and GPS routes to download."
+        }
+      ]
+    },
+    {
+      "type": "mdxjsEsm",
+      "value": "import SevenRoutesDownload from \"../../../src/utils/sevenRoutesDownload.js\";"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Sweden is a great cycling country and ideal for cycle touring. Even in winter! Yes, there actually is a winter cycling race, the Abloc Winter Challenge, a 315 km cycling race around Lake Vättern. In summer you benefit from the white nights. In this article you will find long-distance and medium-length bike tours with GPS routes to download as well as useful tips for a relaxed vacation by bicycle."
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "type": "SevenRoutesDownload",
+      "attributes": [
+        {
+          "name": "link",
+          "value": "https://drive.google.com/drive/folders/1tv5DjCIKZfj10e3V3auishKUPPWEQKl8?usp=sharing"
+        },
+        {
+          "name": "text",
+          "value": "Download GPX/KML Routes Sweden"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "On the interactive map below you can follow along with the described routes."
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "type": "iframe",
+      "attributes": [
+        {
+          "name": "src",
+          "value": "https://maphub.net/embed_h/UyZF9SVKApJ2Yc2a?panel=1&panel_closed=1"
+        },
+        {
+          "name": "title",
+          "value": "interactive map"
+        },
+        {
+          "name": "width",
+          "value": "100%"
+        },
+        {
+          "name": "height",
+          "value": "400"
+        },
+        {
+          "name": "frameborder",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "For Cycle Touring Beginners: Bike-Friendly and Signposted"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "In terms of landscape, Sweden is varied, bike-friendly and less complicated than Norway. In the north there is a lot of forest and mountains over 2,000 m high. Further south it becomes more and more flat."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The long-distance bike route "
+        },
+        {
+          "type": "emphasis",
+          "value": "Sverigeleden"
+        },
+        {
+          "type": "text",
+          "value": " runs from north to south through the country. The main route is 2620 km long but has numerous additional branches. The cycle routes are marked on the Open Cycle Map and are also signposted: long-distance cycle routes are green, regional routes are blue and local routes are black."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Bicycle in Public Transport"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The railway in Sweden is called the SJ and most of the trains "
+        },
+        {
+          "type": "strong",
+          "value": "do not"
+        },
+        {
+          "type": "text",
+          "value": " take bicycles. But there are exceptions: the "
+        },
+        {
+          "type": "link",
+          "url": "https://inlandsbanan.se/",
+          "value": "Inlandsbanan"
+        },
+        {
+          "type": "text",
+          "value": " from Mora to Gällivare, Flixtrain between Stockholm and Gothenburg, "
+        },
+        {
+          "type": "link",
+          "url": "http://xtrafik.se/",
+          "value": "X-trafik"
+        },
+        {
+          "type": "text",
+          "value": " in the Gävleborg region and "
+        },
+        {
+          "type": "link",
+          "url": "https://www.norrtag.se/",
+          "value": "Norrtåg"
+        },
+        {
+          "type": "text",
+          "value": " on the Sundsvall–Storlien and Sundsvall–Umeå routes. You can take your bicycles along the national cycle routes (see below) if there is space, for example with the regional trains "
+        },
+        {
+          "type": "link",
+          "url": "https://www.oresundstag.se/en/",
+          "value": "Öresundstågen"
+        },
+        {
+          "type": "text",
+          "value": " and "
+        },
+        {
+          "type": "link",
+          "url": "http://www.krosatagen.se/",
+          "value": "Krösatågen"
+        },
+        {
+          "type": "text",
+          "value": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "strong",
+          "value": "Flixbus"
+        },
+        {
+          "type": "text",
+          "value": " is well connected in Sweden and takes conventional bicycles. 5 bikes at the back of the bus, then you don't need to disassemble anything, and 3 folding bikes in the bus, transport bags are provided. You have to book the bike when you buy the ticket. The ticket for the bike costs only 9 euros (2022). From Germany there are a number of inexpensive connections to Sweden: From Hamburg, Berlin and Rostock you can get to Helsingborg, Gothenburg and Stockholm, among others. From there you could go even further north. Flixbus even offers a direct connection from Bucharest to Stockholm, straight through Europe - exciting, isn't it?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Here you'll find more about "
+        },
+        {
+          "type": "link",
+          "url": "https://www.flixbus.com/service/bike-travel?_sp=ea5ab11e-c186-45c1-9a9c-b47fd6e2327c.1656572704170&atb_pdid=ebba282a-53af-47da-88f4-a5f43ff2b731&_ga=2.28116926.388467287.1656572698-2059690020.1656425416",
+          "value": "bicycle transport with Flixbus"
+        },
+        {
+          "type": "text",
+          "value": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "strong",
+          "value": "Renting a bike"
+        },
+        {
+          "type": "text",
+          "value": " is no problem in Sweden. However, this will affect your vacation budget."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Where to Sleep in Sweden"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The right to roam applies in Sweden. In other words, you can wild camp for one night within reasonable distance of private land. In case of doubt, just ask. It is usually not a problem to pitch your tent for one night."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/SommerweideSchweden.jpg",
+          "alt": "Old Summer Pasture"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "emphasis",
+          "value": "Vandrarhem"
+        },
+        {
+          "type": "text",
+          "value": " means youth hostel. They are comparatively cheap. Private accommodation, on the other hand, tends to be more expensive. They are called "
+        },
+        {
+          "type": "emphasis",
+          "value": "Stuga"
+        },
+        {
+          "type": "text",
+          "value": ", "
+        },
+        {
+          "type": "emphasis",
+          "value": "Rum"
+        },
+        {
+          "type": "text",
+          "value": ", "
+        },
+        {
+          "type": "emphasis",
+          "value": "Gästboende"
+        },
+        {
+          "type": "text",
+          "value": " or "
+        },
+        {
+          "type": "emphasis",
+          "value": "Gästis"
+        },
+        {
+          "type": "text",
+          "value": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "In Sweden you pay in Swedish kroner (SEK) and mostly cash-free. Don't forget your credit card!"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "EuroVelo Routes in Sweden"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Several EuroVelo Routes run through Sweden:"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Sun Route EuroVelo 7, ca. 3000 km"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The "
+        },
+        {
+          "type": "link",
+          "url": "https://weonbikes.com/en/blog/7-cycling-routes-europe-north-to-south/#3-sun-route-7700-km-eurovelo-7",
+          "value": "Sun Route from the North Cape to Malta"
+        },
+        {
+          "type": "text",
+          "value": " leads from north to south partially along the Baltic Sea through Sweden. You leave Sweden via Gothenburg towards Copenhagen in Denmark."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/House-Halland.jpg",
+          "alt": "Sweden House in Halland"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Baltic Sea Cycle Route, EuroVelo 10"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://weonbikes.com/en/blog/3-european-seas-by-bike/#1-baltic-sea-cycle-route-9000-km-eurovelo-10",
+          "value": "EuroVelo 10"
+        },
+        {
+          "type": "text",
+          "value": " follows along the Baltic Sea coast and therefore more than 2500 km kilometers through Sweden. The cycling route "
+        },
+        {
+          "type": "strong",
+          "value": "Cykelspåret from Ystad to Haparanda"
+        },
+        {
+          "type": "text",
+          "value": " coincides with the EV 10."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Pilgrim's Route EV 3 and North Sea Cycle Route EV 12"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://weonbikes.com/en/blog/7-cycling-routes-europe-north-to-south/#6-pilgrims-route-5300-km-eurovelo-3",
+          "value": "EuroVelo 3"
+        },
+        {
+          "type": "text",
+          "value": " and "
+        },
+        {
+          "type": "link",
+          "url": "https://weonbikes.com/en/blog/3-european-seas-by-bike/#north-sea-cycle-route-7000-km-eurovelo-12",
+          "value": "EuroVelo 12"
+        },
+        {
+          "type": "text",
+          "value": " run from the Norwegian border along southern Sweden's west coast and coincide with the "
+        },
+        {
+          "type": "strong",
+          "value": "Kattegat Cycle Route from Gothenburg to Helsingborg"
+        },
+        {
+          "type": "text",
+          "value": ", see below."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "European Divide Trail ca. 2200 km"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The northernmost section of the "
+        },
+        {
+          "type": "link",
+          "url": "https://weonbikes.com/en/blog/7-cycling-routes-europe-north-to-south/#2-european-divide-trail-7700-km",
+          "value": "European Divide Trail from Norway to Portugal"
+        },
+        {
+          "type": "text",
+          "value": " runs north-south through Sweden, but a little further west than EuroVelo 7. This route avoids roads and follows gravel paths or "
+        },
+        {
+          "type": "strong",
+          "value": "trails"
+        },
+        {
+          "type": "text",
+          "value": " wherever possible."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/NationalPark-Scandinavia.jpg",
+          "alt": "Reindeers Lake View"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Sverigeleden Karesuando - Helsingborg 2620 km"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Sverigeleden means Sweden route and is more of a cycle path network than a single route. In total, the Sverigeleden has 9500 km. The main route runs from the north, starting in Karesuando, south to Helsingborg, across the whole country and has many branches."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Sverigeleden-overview.jpg",
+          "alt": "Sverigeleden Overview"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "figcaption",
+          "value": "Source: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The route sections are numbered and marked with H for main route and A for alternative route. Here are the sections of the main route from north to south and the detour to Stockholm, follow along on the interactive map above:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "strong",
+          "value": "1H Karesuando - Haparanda 393 km"
+        },
+        {
+          "type": "text",
+          "value": " Route through Lapland, passes Tornio, Lapland's oldest town, founded in 1621, worth visiting"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Sverigeleden-hight-profile-N-S.jpg",
+          "alt": "Hight Profile Sverigeleden"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "figcaption",
+          "value": "Hight Profile Sverigeleden"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The Sweden Cycle Route is almost entirely paved, runs on low-traffic roads and gravel paths and is hilly to flat. On the Sweden Route you will come across many memories from the past. Castles in Götaland and on Lake Mälaren, canals in central Sweden, stone tombs in Västergötland, rune stones from the Viking Age, well-maintained village churches, industrial monuments or old fishing villages."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "There are detailed paper maps for the route and even stamp points along the route. In addition, it is clearly signposted. You can see the route on the Open Cycle Map with section numbers. Here you can find an "
+        },
+        {
+          "type": "link",
+          "url": "https://www.svenska-cykelsallskapet.se/attachments/File/SverigeledsfolderEn(1).pdf",
+          "value": "overview of the Sverigeleden as PDF in English"
+        },
+        {
+          "type": "text",
+          "value": ". "
+        },
+        {
+          "type": "strong",
+          "value": "Ideal for Bike Touring beginners!"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "type": "SevenRoutesDownload",
+      "attributes": [
+        {
+          "name": "link",
+          "value": "https://drive.google.com/drive/folders/1tv5DjCIKZfj10e3V3auishKUPPWEQKl8?usp=sharing"
+        },
+        {
+          "name": "text",
+          "value": "Download GPX/KML Routes Sweden"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Sweden's 3 National Cycle Routes, 900 km"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "There are three national cycle routes in Sweden:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Together they form a 900 km long-distance cycle path along the south coast. Although the route is very well developed, there is no information about charging stations for e-bikes along the route, so you have to ask at restaurants and accommodation. However, the infrastructure is fully developed and opportunities are everywhere. Wild camping is also permitted here, however, in nature reserves only in designated areas."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "If you can't bring your own bike, you can also find bike rentals for touring bikes for this route: "
+        },
+        {
+          "type": "link",
+          "url": "https://travelshop.se/en/hyrcyklar/",
+          "value": "Travelshop"
+        },
+        {
+          "type": "text",
+          "value": " in Malmö and Helsingborg and "
+        },
+        {
+          "type": "link",
+          "url": "https://www.evertrek.eu/rental-bikes/",
+          "value": "EverTrek"
+        },
+        {
+          "type": "text",
+          "value": " in Gothenburg, for example."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Kattegattleden Gothenburg-Helsingborg, 390 km"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The Kattegat Cycle Route is signposted in both directions, mostly car-free and paved. There is a detailed "
+        },
+        {
+          "type": "link",
+          "url": "https://www.kattegattleden.se/en",
+          "value": "website in English about Kattegattleden"
+        },
+        {
+          "type": "text",
+          "value": " with maps and info material."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Kattegattleden is located in the Skåne region and passes the following places: Gothenburg - Kungsbacka - Varberg - Falkenberg - Halmstad - Laholm - Båstad - Ängelholm - Höganäs - Helsingborg"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "This route is absolutely poetic: sea, beaches, everything is green even in summer. You often come through small towns and picturesque ports, you can go sightseeing and enjoy delicious food. Halmstadt is known as a summer town with many events."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Sweden-westcoast.jpg",
+          "alt": "West Coast Sweden"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Sydostleden Växjö-Simrishamn, 270 km"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Fishing villages, gardens and apple orchards, art studios, farm shops and traditional inns invite you to take a relaxing tour on this eastern section of the three national bike routes. Sydostleden has been Sweden's second national cycle route since 2016. From north to south you come to the coast through the following cities: Växjö - Tingsryd - Fridafors - Karlshamn - Sölvesborg - Kristianstad - Brösarp - Simrishamn."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "In Kristianstad you'll find the county's lowest point: 2.41 m below sea level. Sweden's most famous apple juice is pressed in Kiviks Musteri. Of course, this goes hand in hand with delicious apple pie in rustic cafés and in September the apple market transforms the small town into a cheerful folk festival. Here you can find the "
+        },
+        {
+          "type": "link",
+          "url": "https://sydostleden-sydkustleden.se/en/delled/sydostleden",
+          "value": "Southeast Cycle Path website"
+        },
+        {
+          "type": "text",
+          "value": "."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "value": "Sydkystleden Simrishamn-Helsingborg, 260 km"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The South Coast Cycle Route has been around since 2019. It bridges the gap between Kattegattleden on the west coast and Sydostleden on the east coast. You come through the places Simrishamn - Ystad - Trelleborg - Skanör - Malmö - Landskrona - Helsingborg."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Ale-Steine.jpg",
+          "alt": "Ale stones at Kåseberga"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "figcaption",
+          "value": "Ale stones at Kåseberga 10 km southeast of Ystad"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Ystad is Wallander's territory. Henning Mankell's famous police inspector solved his trickiest cases here. In Kåseberga there is one of the largest preserved ship settings. Smygehuk is Sweden's southernmost point and in Trelleborg there is a Viking fortress to visit. You can relax on white beaches in Skanör and get immersed in urban life in Malmö. Here you can find the "
+        },
+        {
+          "type": "link",
+          "url": "https://sydostleden-sydkustleden.se/en/delled/sydkustleden",
+          "value": "South Coast Cycle Route website"
+        },
+        {
+          "type": "text",
+          "value": "."
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "type": "SevenRoutesDownload",
+      "attributes": [
+        {
+          "name": "link",
+          "value": "https://drive.google.com/drive/folders/1tv5DjCIKZfj10e3V3auishKUPPWEQKl8?usp=sharing"
+        },
+        {
+          "name": "text",
+          "value": "Download GPX/KML Routes Sweden"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Banvallsleden Karlshamn-Halmstad, 250 km"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Banvallsleden is a cycle route halfway along an old "
+        },
+        {
+          "type": "strong",
+          "value": "railway line"
+        },
+        {
+          "type": "text",
+          "value": " through Åsnen National Park along Lake Åsnen from the east coast to the west coast of southern Sweden. Mostly you cycle on gravel paths through fields and forest."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "From east to west you come through the following places: Karlshamn - Hovmansbygd - Ryd - Torne - Vislanda - Ryssby - Ljungby - Byholma - Bygget - Simlångsdalen - Halmstad."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The varied landscape pleases with oak and beech forests, rivers and lakes and the beautiful Simlångsdalen. The Mörrumsån River is possibly the best salmon fishing waters in the world. The old train station romance has been preserved, the villages are lively and every now and then you will pass a castle."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/534.jpg",
+          "alt": "River"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Sjuhärads Loop east of Gothenburg, 150 km"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The Sjuhärads Loop is also a "
+        },
+        {
+          "type": "strong",
+          "value": "rail trail"
+        },
+        {
+          "type": "text",
+          "value": " and is car-free apart from 30 km. You will pass old train stations and railway bridges. The route is signposted and developed for tourists: youth hostels, campsites, all family-friendly."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Counter-clockwise you get through the following places: Borås, Ulricehamn, Limmared, Tranemo and Svenljunga. Borås and Limmared have train connections."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Lake Mälaren Cycle Route, 440 km"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Mälardalsleden is Sweden's oldest cycle route and goes around Lake Mälaren, near Stockholm. The trail connects several major cities such as Stockholm, Södertälje, Eskilstuna, Västerås and Enköping. Nevertheless, the route leads through forests and meadows through green nature along the lake."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Lake-Mist.jpg",
+          "alt": "Lake in the mist"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "This route has existed since 1980, is very well signposted and mostly paved. It has a number of branches. The main route in our interactive map has 370 km."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Vänern Loop, 486 km"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "This lake cycle path is brand new and only opened in summer 2022. Vänern is Sweden's largest lake and the third largest lake in Europe. 13 places are located around the huge water. So the infrastructure is comfortable. Newly created cycle paths, low-traffic roads and gravel paths make up the Väner Cycle Route."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The landscape is dominated by the lake, however, the tour is absolutely varied. You ride through forest, along skerries and farmland, you can relax on the beach, go sightseeing in the neighboring towns or try culinary delights in cafes and restaurants."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Lake-evening.jpg",
+          "alt": "Lake in evening light"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The route: Karlstad - Mariestad - Vänersborg - Åmål - Karlstad. The historical centers of Mariestad, Lidköping, Kristinehamn and Åmål are worth a visit. There is an aqueduct in Håverud, you cycle over the Kinnekulle, one of the strata mesas of the Västgötaberge, and on the Kålland peninsula there is the Hindens reef."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The route is given as 640 km, entered in our interactive map (see top of page) it only has 486 km. Go try it!"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "type": "SevenRoutesDownload",
+      "attributes": [
+        {
+          "name": "link",
+          "value": "https://drive.google.com/drive/folders/1tv5DjCIKZfj10e3V3auishKUPPWEQKl8?usp=sharing"
+        },
+        {
+          "name": "text",
+          "value": "Download GPX/KML Routes Sweden"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Gotland Route, 500 km"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "The island of Gotland is the largest island in the Baltic Sea and has been inhabited since time immemorial. The island is a popular holiday destination and in summer there is quite a lot of traffic on the roads. You can ride a bike anywhere. Don't stick too much to the route, rather look for smaller paths on your digital map and avoid busy roads. Some of the signage may be missing."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "strong",
+          "value": "Ferry connections"
+        },
+        {
+          "type": "text",
+          "value": " are available from "
+        },
+        {
+          "type": "strong",
+          "value": "Nynäshamn"
+        },
+        {
+          "type": "text",
+          "value": " south of Stockholm, "
+        },
+        {
+          "type": "strong",
+          "value": "Oskarshamn"
+        },
+        {
+          "type": "text",
+          "value": " in Småland and from "
+        },
+        {
+          "type": "strong",
+          "value": "Rostock"
+        },
+        {
+          "type": "text",
+          "value": " in Germany, to the harbor of Visby on Gotland."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "What to see once you make it to the island? White beaches, flower meadows, the old seasonal Gotland fishing villages, medieval country churches, bizarre "
+        },
+        {
+          "type": "strong",
+          "value": "Rauks"
+        },
+        {
+          "type": "text",
+          "value": " - the peculiar limestone pillars, Viking art and Visby. During the 32nd week of every year, the medieval town hosts a festival: the Medieval Week. It's insanely popular. Decide for yourself whether you like the hustle and bustle or prefer to cycle around Gotland in the off-season."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "url": "../img/Rauks-Gotland.jpg",
+          "alt": "Rauks"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "figcaption",
+          "value": "Picture from "
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "value": "Öland Route"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "On the island of Öland there are several routes that are easy to follow by bike without a special map. You'll see them on the Open Cycle Map. From the mainland, the Sverigeleden leads there, namely route 34A from Vrankunge via Kalmar to Bryxelkrok in northern Öland, 279 km."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "These are some of the best cycling routes in Sweden. There is much more. With the Open Cycle Map you quickly get a good overview. Sweden is convenient for cycling and you can start without detailed planning. So..."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "strong",
+          "value": "Get on your bike and share the most beautiful, safest, shortest, or longest and most practical bike routes with others. Talk about holidays by bicycle. Give someone a bike or a bike day! Just don't give up until everyone's riding by bicycle. Because cycling makes you happy."
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "type": "SevenRoutesDownload",
+      "attributes": [
+        {
+          "name": "link",
+          "value": "https://drive.google.com/drive/folders/1tv5DjCIKZfj10e3V3auishKUPPWEQKl8?usp=sharing"
+        },
+        {
+          "name": "text",
+          "value": "Download GPX/KML Routes Sweden"
+        }
+      ]
+    }
+  ]
+}
