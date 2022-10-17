@@ -90,6 +90,24 @@ const Hero = () => {
               width={400}
             />
           )}
+          {language === "nl" && (
+            <StaticImage
+              alt="7 fietsroutes van noord naar zuid door Europa"
+              src="../images/hero-7-routes-EN.jpg"
+              placeholder="blurred"
+              loading="eager"
+              width={400}
+            />
+          )}
+          {language === "pt" && (
+            <StaticImage
+              alt="7 rotas cicláveis pela Europa de Norte a Sul"
+              src="../images/hero-7-routes-EN.jpg"
+              placeholder="blurred"
+              loading="eager"
+              width={400}
+            />
+          )}
         </div>
       </div>
     </div>

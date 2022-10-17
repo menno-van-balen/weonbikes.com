@@ -1,11 +1,15 @@
 {
-  "/": "/",
-  "/buch": "/boek",
-  "/#home": "/#thuis",
-  "/about": "/over",
-  "/blog": "/blog",
-  "/blog/my-first-post": "/blog/mijn-eerste-post",
-  "/blog/second-post": "/blog/tweede-post",
-  "/blog/third-post": "/blog/derde-post",
-  "/book": "/boek"
+  "/buch/": "/boek/",
+  "/book/": "/boek/",
+  "/livro/": "/boek/",
+  "/blog/": "/blog/",
+  "/story/": "/verhaal/",
+  "/historia/": "/verhaal/",
+  "/faq/": "/faq/",
+  "/blog/7-radwanderwege-in-europa-nord-sued/": "/blog/7-fietroutes-europa-noord-zuid/",
+  "/blog/7-cycling-routes-europe-north-to-south/": "/blog/7-fietroutes-europa-noord-zuid/",
+  "/blog/7-percursos-de-bicicleta-europa-norte-sul/": "/blog/7-fietroutes-europa-noord-zuid/",
+  "/blog/7-fernradwege-fuer-urlaub-in-europa/": "/blog/7-fietsroutes-voor-zomervakantie/",
+  "/blog/7-cycling-routes-for-bike-tour-holidays/": "/blog/7-fietsroutes-voor-zomervakantie/",
+  "/blog/7-rotas-para-ferias-em-bicicleta/": "/blog/7-fietsroutes-voor-zomervakantie/"
 }
