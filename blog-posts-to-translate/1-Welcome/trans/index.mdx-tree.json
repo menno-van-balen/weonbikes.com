@@ -110,11 +110,166 @@
       ]
     },
     {
+      "type": "list",
+      "ordered": false,
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "link",
+              "url": "https://www.un.org/en/observances/bicycle-day",
+              "value": "World Bicycle Day"
+            },
+            {
+              "type": "text",
+              "value": ", June 3rd, anywhere where people ride their bikes"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "link",
+              "url": "https://www.eurobike.com/en/",
+              "value": "Eurobike"
+            },
+            {
+              "type": "text",
+              "value": ", this time in Frankfurt, Germany, the largest international bicycle fair in Europe, July 13th to 17th"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "link",
+              "url": "https://www.velo-city2022.com/en/",
+              "value": "Velocity2022"
+            },
+            {
+              "type": "text",
+              "value": " in Ljubljana, Slovenia, June 14th to 17th, World Cycling Summit, that took place in "
+            },
+            {
+              "type": "link",
+              "url": "https://www.velo-city2021.com/",
+              "value": "Lissabon"
+            },
+            {
+              "type": "text",
+              "value": " in 2021"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "link",
+              "url": "https://velofestivals.com/veloberlin/",
+              "value": "VeloBerlin"
+            },
+            {
+              "type": "text",
+              "value": ", April 9th to 10th in Berlin, bicycle festival all about bikes, VeloHamburg, May 21st/22nd and VeloFrankfurt June 11th/12th in Germany"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "link",
+              "url": "https://www.bameurope.it/en/",
+              "value": "BAM"
+            },
+            {
+              "type": "text",
+              "value": ", Bicycle Adventure Meeting, June 10th to 12th in Mantova, Italy, meeting for bicycle travelers"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
           "type": "text",
           "value": "By now still not in-presence:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "link",
+              "url": "https://cargobikefestival.com/",
+              "value": "International Cargo Bike Festival"
+            },
+            {
+              "type": "text",
+              "value": ", was planned for May 6th to 8th, but will apparently not take place, the CargoBike Magazine 2022 should appear in October"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "link",
+              "url": "https://www.fietsenwandelbeurs.nl/fietsroute-van-het-jaar/",
+              "value": "Fiets- en Wandelbeurs"
+            },
+            {
+              "type": "text",
+              "value": ", last time 2020 in Utrecht, Netherlands, could not take place yet this year, but is planned to be back in 2023. However, 4 "
+            },
+            {
+              "type": "link",
+              "url": "https://www.fietsenwandelbeurs.nl/fietsroute-van-het-jaar/",
+              "value": "Cycle routes of the year"
+            },
+            {
+              "type": "text",
+              "value": " has been nominated, including the 925 km long "
+            },
+            {
+              "type": "link",
+              "url": "https://www.vlaanderenmetdefiets.be/en/routes/vlaanderen.html",
+              "value": "Flanders route"
+            },
+            {
+              "type": "text",
+              "value": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Anyone interested in urban mobility will find even more suggestions at the "
+            },
+            {
+              "type": "link",
+              "url": "https://ecf.com/news-and-events/calendar?page=1",
+              "value": "ECF"
+            },
+            {
+              "type": "text",
+              "value": "."
+            }
+          ]
         }
       ]
     },
