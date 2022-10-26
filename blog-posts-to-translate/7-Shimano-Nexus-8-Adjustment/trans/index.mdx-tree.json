@@ -104,6 +104,39 @@
       ]
     },
     {
+      "type": "list",
+      "ordered": false,
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "inexpensive, complete wheel approx. 200 Euro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "lasts forever when correctly maintained (1x per year/2000 km)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "comparatively large range for such a small hub: 307 %"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {

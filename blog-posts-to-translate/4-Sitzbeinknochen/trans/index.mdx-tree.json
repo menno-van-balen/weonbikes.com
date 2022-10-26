@@ -5,7 +5,43 @@
       "attributes": [
         {
           "name": "date",
-          "value": "2022-03-24\nlang: en\npath: measuring-sitbone-width-3-steps\ntitle_post: 3 steps to measure your sit bone distance\ntitle_html: How to measure your sit bone width in 3 easy steps\nhero_image: ../hero-img/Sitbone-distance.jpg\nhero_image_alt: saddles with tape measure\nphotographer_name: our current saddles\nphotographer_link: https://www.instagram.com/weonbikes_on_insta/\ndescription: Here is how to measure the distance between your sit bones in 3 easy steps by yourself. The sit bone distance is an important measurement to calculate your optimum saddle width, because to be comfortable on your bike for hours in row you will need a saddle that fits your anatomy."
+          "value": "2022-03-24"
+        },
+        {
+          "name": "lang",
+          "value": "en"
+        },
+        {
+          "name": "path",
+          "value": "measuring-sitbone-width-3-steps"
+        },
+        {
+          "name": "title_post",
+          "value": "3 steps to measure your sit bone distance"
+        },
+        {
+          "name": "title_html",
+          "value": "How to measure your sit bone width in 3 easy steps"
+        },
+        {
+          "name": "hero_image",
+          "value": "../hero-img/Sitbone-distance.jpg"
+        },
+        {
+          "name": "hero_image_alt",
+          "value": "saddles with tape measure"
+        },
+        {
+          "name": "photographer_name",
+          "value": "our current saddles"
+        },
+        {
+          "name": "photographer_link",
+          "value": "https://www.instagram.com/weonbikes_on_insta/"
+        },
+        {
+          "name": "description",
+          "value": "Here is how to measure the distance between your sit bones in 3 easy steps by yourself. The sit bone distance is an important measurement to calculate your optimum saddle width, because to be comfortable on your bike for hours in row you will need a saddle that fits your anatomy."
         }
       ]
     },
@@ -118,6 +154,21 @@
       "value": "What you need"
     },
     {
+      "type": "list",
+      "ordered": false,
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "base"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -147,6 +198,30 @@
         {
           "type": "text",
           "value": " as a base for the imprint. Bike fitting professionals place special pressure mapping foil on the saddle."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "a stick or your fingers to mark the sand, a pen if you use aluminum foil or corrugated cardboard"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "tape measure"
+            }
+          ]
         }
       ]
     },

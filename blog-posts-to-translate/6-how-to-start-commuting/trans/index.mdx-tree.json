@@ -73,6 +73,48 @@
       ]
     },
     {
+      "type": "list",
+      "ordered": true,
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "You will save time"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "You will save money"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "You will get healthier - mentally and physically"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "You will get to know the city better"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -269,6 +311,66 @@
       ]
     },
     {
+      "type": "list",
+      "ordered": false,
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "a good headlight and backlight,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "mudguards"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "a bell"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "reflective clothing"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "a lock and"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "a helmet are indispensable."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -426,6 +528,56 @@
         {
           "type": "text",
           "value": "Bike culture is becoming more prevalent and bikes are more often seen even in cyclewise difficult cities like Lisbon. The more people commute by bike and claim urban space the better the biking infrastructure will become. And the safer the cyclists will be. However, in order to improve safety now, cyclists should consider these basic guidelines:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "wear bright reflective colors and a helmet"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "stick to the rules"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "do not insist on your right – you will lose in a crash"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "be aware of the "
+            },
+            {
+              "type": "strong",
+              "value": "blind spot"
+            },
+            {
+              "type": "text",
+              "value": " on the car's right side"
+            }
+          ]
         }
       ]
     },
