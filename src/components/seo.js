@@ -158,7 +158,7 @@ const SEO = ({
         "https://www.facebook.com/uta.schulz.12",
         "https://www.instagram.com/uta_on_insta/",
         "https://www.amazon.com/kindle-dbs/entity/author/B09SVCVM7H?_encoding=UTF8&node=283155&offset=0&pageSize=12&searchAlias=stripbooks&sort=author-sidecar-rank&page=1&langFilter=default#formatSelectorHeader",
-        "https://www.amazon.de/Uta-Schulz/e/B09SVCVM7H%3Fref=dbs_a_mng_rwt_scns_share"
+        "https://www.amazon.de/Uta-Schulz/e/B09SVCVM7H%3Fref=dbs_a_mng_rwt_scns_share",
       ],
       worksFor: { "@id": siteUrl + "/#organization" },
       url: siteUrl + "/",
@@ -334,7 +334,7 @@ const SEO = ({
       })}
       <link
         rel="alternate"
-        href={siteUrl + "/en" + getLocalizedRoute(orgPath, "en")}
+        href={siteUrl + getLocalizedRoute(orgPath, "en")}
         hrefLang="x-default"
       />
 
