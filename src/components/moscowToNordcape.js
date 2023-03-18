@@ -12,7 +12,6 @@ import {
   moscowToNordcapeImage,
   moscowToNordcapeContentWrapper,
   moscowToNordcapeButtons,
-  // moscowToNordcapeButton1,
 } from "./moscowToNordcape.module.css";
 import RouteDownload from "../utils/routeDownload";
 

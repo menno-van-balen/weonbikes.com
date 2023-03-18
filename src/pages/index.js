@@ -1,5 +1,3 @@
-// i18next-extract-mark-ns-start home-page
-
 import * as React from "react";
 import { graphql } from "gatsby";
 import Layout from "../components/layout";
@@ -9,8 +7,10 @@ import Project from "../components/project";
 import About from "../components/about";
 import NordcapeToPortugal from "../components/nordcapeToPortugal";
 import MoscowToNordcape from "../components/moscowToNordcape";
+import Book from "../components/book";
 import TakeAction from "../components/takeAction";
 import { Helmet } from "react-helmet";
+import BuyBook from "../components/buyBook";
 
 const IndexPage = () => {
   return (
@@ -27,7 +27,9 @@ const IndexPage = () => {
       <About />
       <NordcapeToPortugal />
       <MoscowToNordcape />
+      <Book />
       <TakeAction />
+      <BuyBook />
     </Layout>
   );
 };
@@ -38,7 +40,7 @@ export const query = graphql`
   query ($language: String) {
     locales: allLocale(
       filter: {
-        ns: { in: ["home", "nav", "subs"] }
+        ns: { in: ["home", "nav", "subs", "buybook"] }
         language: { eq: $language }
       }
     ) {

@@ -1,32 +1,44 @@
-.takeActionWrapper {
+.buyBookWrapper {
   width: 100%;
-  margin: auto;
-  margin-top: 40px;
   background-color: #7a8eb9;
 }
 
-.takeActionContentWrapper {
+.bookLinks {
   width: 80%;
+  text-align: center;
   margin: auto;
   padding: 5px;
-  text-align: center;
 }
 
-.takeActionContentWrapper h2 {
+.bookLinks h2 {
   color: #0d4880;
   font-size: 1.5em;
   margin: 0.67em 0;
 }
 
-.takeActionBookPrices {
+.buyBookLinks {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
   font-weight: bold;
 }
 
+.buyBookLinks a {
+  margin: 10px;
+  padding: 0 20px;
+  font-weight: bold;
+  color: #fff4d5;
+  text-decoration: none;
+  border: 2px solid #ee6556;
+  border-radius: 20px;
+}
+
+.buyBookLinks a:hover {
+  color: #ee6556;
+}
+
 .price {
-  color: #233066;
+  /* color: #233066; */
   font-size: 16px;
   margin-bottom: 3px;
 }
@@ -38,7 +50,7 @@
 }
 
 @media screen and (min-width: 376px) {
-  .takeActionBookPrices {
+  .buyBookLinks {
     flex-direction: row;
   }
 }

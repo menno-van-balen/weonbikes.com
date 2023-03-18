@@ -9,6 +9,7 @@ import Seo from "../components/seo";
 import BuyButton from "../utils/buyButton";
 import "../styles/book.css";
 import SampleDownload from "../utils/sampleDownload";
+import BuyBook from "../components/buyBook";
 
 const BookPage = ({ data }) => {
   const { t } = useTranslation();
@@ -16,34 +17,21 @@ const BookPage = ({ data }) => {
   const coverDe = data.coverde.childImageSharp.fixed.src;
   const coverEn = data.coveren.childImageSharp.fixed.src;
 
-  // const lng = language;
-  // let isbn;
   let img;
   if (language === "de") {
-    // isbn = "9783755793021";
     img = coverDe;
   } else if (language === "en") {
-    // isbn = "9783755792734";
     img = coverEn;
   }
-  // else if (language === "nl") {
-  //   isbn = ""
-  // } else {
-  //   isbn = ""
-  // }
 
   return (
     <Layout>
       <Seo
-        // type={"website"}
         position={2}
         title={t("Von Moskau zum Nordkap auf dem Fahrrad - Reisebericht")}
         description={t(
           "Radwandern im Nordosten Europas. 60 Tage mit Fahrrad und Zelt durch Russland, Finnland, Lappland und Norwegen. Spannender Reisebericht zum Nachradeln mit vielen Fotos. Leseprobe, Galerie, GPS-Route herunterladen."
         )}
-        // author={"Uta schulz"}
-        // isbn={isbn}
-        // release_date={"2022-02-18"}
         image={img}
         imgAlt={
           t("Buchumschlag") +
@@ -628,9 +616,9 @@ const BookPage = ({ data }) => {
           )}
           <div className="book-buttons">
             <SampleDownload />
-            <BuyButton />
           </div>
         </div>
+        <BuyBook />
       </div>
     </Layout>
   );
@@ -642,7 +630,7 @@ export const query = graphql`
   query ($language: String) {
     locales: allLocale(
       filter: {
-        ns: { in: ["buch", "nav", "subs"] }
+        ns: { in: ["buch", "nav", "subs", "buybook"] }
         language: { eq: $language }
       }
     ) {
@@ -670,22 +658,3 @@ export const query = graphql`
     }
   }
 `;
-
-// const imgQuery = graphql`
-//   query {
-//     coverde: file(relativePath: { eq: "cover-de.jpg" }) {
-//       childImageSharp {
-//         fixed(width: 500) {
-//           srcWebp
-//         }
-//       }
-//     }
-//     coveren: file(relativePath: { eq: "cover-en.jpg" }) {
-//       childImageSharp {
-//         fixed(width: 500) {
-//           srcWebp
-//         }
-//       }
-//     }
-//   }
-// `;
