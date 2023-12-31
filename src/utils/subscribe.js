@@ -97,8 +97,6 @@ const Subscribe = (props) => {
   const handleSubSubmit = (e) => {
     e.preventDefault();
 
-    // const process.env = require("../sender-data/process.env.json");
-
     let newsletterId = "";
 
     if (language === "de") {
